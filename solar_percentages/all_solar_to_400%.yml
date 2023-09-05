@@ -1,1920 +1,1920 @@
 - - 0*24*60*60+0*900
   - 0*24*60*60+0*900+899
-  - PV Fischereihafen: 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0*4.0
-    PV Lehe - 0: 0.0*4.0
-    PV Lehe - 1: 0.0*4.0
-    PV Lehe - 2: 0.0*4.0
-    PV Lehe - 3: 0.0*4.0
-    PV Lehe - 4: 0.0*4.0
-    PV Leherheide - 0: 0.0*4.0
-    PV Leherheide - 1: 0.0*4.0
-    PV Mitte - 0: 0.0*4.0
-    PV Mitte - 1: 0.0*4.0
-    PV Schiffdorferdamm: 0.0*4.0
-    PV Surheide: 0.0*4.0
-    PV Weddewarden: 0.0*4.0
-    PV Wulsdorf - 0: 0.0*4.0
-    PV Wulsdorf - 1: 0.0*4.0
+  - 0-sgen-1-17.p_mw: 0.0*4.0
+    0-sgen-10-35.p_mw: 0.0*4.0
+    0-sgen-11-37.p_mw: 0.0*4.0
+    0-sgen-13-40.p_mw: 0.0*4.0
+    0-sgen-15-45.p_mw: 0.0*4.0
+    0-sgen-16-50.p_mw: 0.0*4.0
+    0-sgen-17-53.p_mw: 0.0*4.0
+    0-sgen-19-57.p_mw: 0.0*4.0
+    0-sgen-2-20.p_mw: 0.0*4.0
+    0-sgen-20-63.p_mw: 0.0*4.0
+    0-sgen-21-65.p_mw: 0.0*4.0
+    0-sgen-22-67.p_mw: 0.0*4.0
+    0-sgen-23-71.p_mw: 0.0*4.0
+    0-sgen-24-80.p_mw: 0.0*4.0
+    0-sgen-5-25.p_mw: 0.0*4.0
+    0-sgen-6-28.p_mw: 0.0*4.0
+    0-sgen-7-30.p_mw: 0.0*4.0
+    0-sgen-9-33.p_mw: 0.0*4.0
 - - 0*24*60*60+1*900
   - 0*24*60*60+1*900+899
-  - PV Fischereihafen: 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0*4.0
-    PV Lehe - 0: 0.0*4.0
-    PV Lehe - 1: 0.0*4.0
-    PV Lehe - 2: 0.0*4.0
-    PV Lehe - 3: 0.0*4.0
-    PV Lehe - 4: 0.0*4.0
-    PV Leherheide - 0: 0.0*4.0
-    PV Leherheide - 1: 0.0*4.0
-    PV Mitte - 0: 0.0*4.0
-    PV Mitte - 1: 0.0*4.0
-    PV Schiffdorferdamm: 0.0*4.0
-    PV Surheide: 0.0*4.0
-    PV Weddewarden: 0.0*4.0
-    PV Wulsdorf - 0: 0.0*4.0
-    PV Wulsdorf - 1: 0.0*4.0
+  - 0-sgen-1-17.p_mw: 0.0*4.0
+    0-sgen-10-35.p_mw: 0.0*4.0
+    0-sgen-11-37.p_mw: 0.0*4.0
+    0-sgen-13-40.p_mw: 0.0*4.0
+    0-sgen-15-45.p_mw: 0.0*4.0
+    0-sgen-16-50.p_mw: 0.0*4.0
+    0-sgen-17-53.p_mw: 0.0*4.0
+    0-sgen-19-57.p_mw: 0.0*4.0
+    0-sgen-2-20.p_mw: 0.0*4.0
+    0-sgen-20-63.p_mw: 0.0*4.0
+    0-sgen-21-65.p_mw: 0.0*4.0
+    0-sgen-22-67.p_mw: 0.0*4.0
+    0-sgen-23-71.p_mw: 0.0*4.0
+    0-sgen-24-80.p_mw: 0.0*4.0
+    0-sgen-5-25.p_mw: 0.0*4.0
+    0-sgen-6-28.p_mw: 0.0*4.0
+    0-sgen-7-30.p_mw: 0.0*4.0
+    0-sgen-9-33.p_mw: 0.0*4.0
 - - 0*24*60*60+2*900
   - 0*24*60*60+2*900+899
-  - PV Fischereihafen: 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0*4.0
-    PV Lehe - 0: 0.0*4.0
-    PV Lehe - 1: 0.0*4.0
-    PV Lehe - 2: 0.0*4.0
-    PV Lehe - 3: 0.0*4.0
-    PV Lehe - 4: 0.0*4.0
-    PV Leherheide - 0: 0.0*4.0
-    PV Leherheide - 1: 0.0*4.0
-    PV Mitte - 0: 0.0*4.0
-    PV Mitte - 1: 0.0*4.0
-    PV Schiffdorferdamm: 0.0*4.0
-    PV Surheide: 0.0*4.0
-    PV Weddewarden: 0.0*4.0
-    PV Wulsdorf - 0: 0.0*4.0
-    PV Wulsdorf - 1: 0.0*4.0
+  - 0-sgen-1-17.p_mw: 0.0*4.0
+    0-sgen-10-35.p_mw: 0.0*4.0
+    0-sgen-11-37.p_mw: 0.0*4.0
+    0-sgen-13-40.p_mw: 0.0*4.0
+    0-sgen-15-45.p_mw: 0.0*4.0
+    0-sgen-16-50.p_mw: 0.0*4.0
+    0-sgen-17-53.p_mw: 0.0*4.0
+    0-sgen-19-57.p_mw: 0.0*4.0
+    0-sgen-2-20.p_mw: 0.0*4.0
+    0-sgen-20-63.p_mw: 0.0*4.0
+    0-sgen-21-65.p_mw: 0.0*4.0
+    0-sgen-22-67.p_mw: 0.0*4.0
+    0-sgen-23-71.p_mw: 0.0*4.0
+    0-sgen-24-80.p_mw: 0.0*4.0
+    0-sgen-5-25.p_mw: 0.0*4.0
+    0-sgen-6-28.p_mw: 0.0*4.0
+    0-sgen-7-30.p_mw: 0.0*4.0
+    0-sgen-9-33.p_mw: 0.0*4.0
 - - 0*24*60*60+3*900
   - 0*24*60*60+3*900+899
-  - PV Fischereihafen: 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0*4.0
-    PV Lehe - 0: 0.0*4.0
-    PV Lehe - 1: 0.0*4.0
-    PV Lehe - 2: 0.0*4.0
-    PV Lehe - 3: 0.0*4.0
-    PV Lehe - 4: 0.0*4.0
-    PV Leherheide - 0: 0.0*4.0
-    PV Leherheide - 1: 0.0*4.0
-    PV Mitte - 0: 0.0*4.0
-    PV Mitte - 1: 0.0*4.0
-    PV Schiffdorferdamm: 0.0*4.0
-    PV Surheide: 0.0*4.0
-    PV Weddewarden: 0.0*4.0
-    PV Wulsdorf - 0: 0.0*4.0
-    PV Wulsdorf - 1: 0.0*4.0
+  - 0-sgen-1-17.p_mw: 0.0*4.0
+    0-sgen-10-35.p_mw: 0.0*4.0
+    0-sgen-11-37.p_mw: 0.0*4.0
+    0-sgen-13-40.p_mw: 0.0*4.0
+    0-sgen-15-45.p_mw: 0.0*4.0
+    0-sgen-16-50.p_mw: 0.0*4.0
+    0-sgen-17-53.p_mw: 0.0*4.0
+    0-sgen-19-57.p_mw: 0.0*4.0
+    0-sgen-2-20.p_mw: 0.0*4.0
+    0-sgen-20-63.p_mw: 0.0*4.0
+    0-sgen-21-65.p_mw: 0.0*4.0
+    0-sgen-22-67.p_mw: 0.0*4.0
+    0-sgen-23-71.p_mw: 0.0*4.0
+    0-sgen-24-80.p_mw: 0.0*4.0
+    0-sgen-5-25.p_mw: 0.0*4.0
+    0-sgen-6-28.p_mw: 0.0*4.0
+    0-sgen-7-30.p_mw: 0.0*4.0
+    0-sgen-9-33.p_mw: 0.0*4.0
 - - 0*24*60*60+4*900
   - 0*24*60*60+4*900+899
-  - PV Fischereihafen: 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0*4.0
-    PV Lehe - 0: 0.0*4.0
-    PV Lehe - 1: 0.0*4.0
-    PV Lehe - 2: 0.0*4.0
-    PV Lehe - 3: 0.0*4.0
-    PV Lehe - 4: 0.0*4.0
-    PV Leherheide - 0: 0.0*4.0
-    PV Leherheide - 1: 0.0*4.0
-    PV Mitte - 0: 0.0*4.0
-    PV Mitte - 1: 0.0*4.0
-    PV Schiffdorferdamm: 0.0*4.0
-    PV Surheide: 0.0*4.0
-    PV Weddewarden: 0.0*4.0
-    PV Wulsdorf - 0: 0.0*4.0
-    PV Wulsdorf - 1: 0.0*4.0
+  - 0-sgen-1-17.p_mw: 0.0*4.0
+    0-sgen-10-35.p_mw: 0.0*4.0
+    0-sgen-11-37.p_mw: 0.0*4.0
+    0-sgen-13-40.p_mw: 0.0*4.0
+    0-sgen-15-45.p_mw: 0.0*4.0
+    0-sgen-16-50.p_mw: 0.0*4.0
+    0-sgen-17-53.p_mw: 0.0*4.0
+    0-sgen-19-57.p_mw: 0.0*4.0
+    0-sgen-2-20.p_mw: 0.0*4.0
+    0-sgen-20-63.p_mw: 0.0*4.0
+    0-sgen-21-65.p_mw: 0.0*4.0
+    0-sgen-22-67.p_mw: 0.0*4.0
+    0-sgen-23-71.p_mw: 0.0*4.0
+    0-sgen-24-80.p_mw: 0.0*4.0
+    0-sgen-5-25.p_mw: 0.0*4.0
+    0-sgen-6-28.p_mw: 0.0*4.0
+    0-sgen-7-30.p_mw: 0.0*4.0
+    0-sgen-9-33.p_mw: 0.0*4.0
 - - 0*24*60*60+5*900
   - 0*24*60*60+5*900+899
-  - PV Fischereihafen: 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0*4.0
-    PV Lehe - 0: 0.0*4.0
-    PV Lehe - 1: 0.0*4.0
-    PV Lehe - 2: 0.0*4.0
-    PV Lehe - 3: 0.0*4.0
-    PV Lehe - 4: 0.0*4.0
-    PV Leherheide - 0: 0.0*4.0
-    PV Leherheide - 1: 0.0*4.0
-    PV Mitte - 0: 0.0*4.0
-    PV Mitte - 1: 0.0*4.0
-    PV Schiffdorferdamm: 0.0*4.0
-    PV Surheide: 0.0*4.0
-    PV Weddewarden: 0.0*4.0
-    PV Wulsdorf - 0: 0.0*4.0
-    PV Wulsdorf - 1: 0.0*4.0
+  - 0-sgen-1-17.p_mw: 0.0*4.0
+    0-sgen-10-35.p_mw: 0.0*4.0
+    0-sgen-11-37.p_mw: 0.0*4.0
+    0-sgen-13-40.p_mw: 0.0*4.0
+    0-sgen-15-45.p_mw: 0.0*4.0
+    0-sgen-16-50.p_mw: 0.0*4.0
+    0-sgen-17-53.p_mw: 0.0*4.0
+    0-sgen-19-57.p_mw: 0.0*4.0
+    0-sgen-2-20.p_mw: 0.0*4.0
+    0-sgen-20-63.p_mw: 0.0*4.0
+    0-sgen-21-65.p_mw: 0.0*4.0
+    0-sgen-22-67.p_mw: 0.0*4.0
+    0-sgen-23-71.p_mw: 0.0*4.0
+    0-sgen-24-80.p_mw: 0.0*4.0
+    0-sgen-5-25.p_mw: 0.0*4.0
+    0-sgen-6-28.p_mw: 0.0*4.0
+    0-sgen-7-30.p_mw: 0.0*4.0
+    0-sgen-9-33.p_mw: 0.0*4.0
 - - 0*24*60*60+6*900
   - 0*24*60*60+6*900+899
-  - PV Fischereihafen: 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0*4.0
-    PV Lehe - 0: 0.0*4.0
-    PV Lehe - 1: 0.0*4.0
-    PV Lehe - 2: 0.0*4.0
-    PV Lehe - 3: 0.0*4.0
-    PV Lehe - 4: 0.0*4.0
-    PV Leherheide - 0: 0.0*4.0
-    PV Leherheide - 1: 0.0*4.0
-    PV Mitte - 0: 0.0*4.0
-    PV Mitte - 1: 0.0*4.0
-    PV Schiffdorferdamm: 0.0*4.0
-    PV Surheide: 0.0*4.0
-    PV Weddewarden: 0.0*4.0
-    PV Wulsdorf - 0: 0.0*4.0
-    PV Wulsdorf - 1: 0.0*4.0
+  - 0-sgen-1-17.p_mw: 0.0*4.0
+    0-sgen-10-35.p_mw: 0.0*4.0
+    0-sgen-11-37.p_mw: 0.0*4.0
+    0-sgen-13-40.p_mw: 0.0*4.0
+    0-sgen-15-45.p_mw: 0.0*4.0
+    0-sgen-16-50.p_mw: 0.0*4.0
+    0-sgen-17-53.p_mw: 0.0*4.0
+    0-sgen-19-57.p_mw: 0.0*4.0
+    0-sgen-2-20.p_mw: 0.0*4.0
+    0-sgen-20-63.p_mw: 0.0*4.0
+    0-sgen-21-65.p_mw: 0.0*4.0
+    0-sgen-22-67.p_mw: 0.0*4.0
+    0-sgen-23-71.p_mw: 0.0*4.0
+    0-sgen-24-80.p_mw: 0.0*4.0
+    0-sgen-5-25.p_mw: 0.0*4.0
+    0-sgen-6-28.p_mw: 0.0*4.0
+    0-sgen-7-30.p_mw: 0.0*4.0
+    0-sgen-9-33.p_mw: 0.0*4.0
 - - 0*24*60*60+7*900
   - 0*24*60*60+7*900+899
-  - PV Fischereihafen: 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0*4.0
-    PV Lehe - 0: 0.0*4.0
-    PV Lehe - 1: 0.0*4.0
-    PV Lehe - 2: 0.0*4.0
-    PV Lehe - 3: 0.0*4.0
-    PV Lehe - 4: 0.0*4.0
-    PV Leherheide - 0: 0.0*4.0
-    PV Leherheide - 1: 0.0*4.0
-    PV Mitte - 0: 0.0*4.0
-    PV Mitte - 1: 0.0*4.0
-    PV Schiffdorferdamm: 0.0*4.0
-    PV Surheide: 0.0*4.0
-    PV Weddewarden: 0.0*4.0
-    PV Wulsdorf - 0: 0.0*4.0
-    PV Wulsdorf - 1: 0.0*4.0
+  - 0-sgen-1-17.p_mw: 0.0*4.0
+    0-sgen-10-35.p_mw: 0.0*4.0
+    0-sgen-11-37.p_mw: 0.0*4.0
+    0-sgen-13-40.p_mw: 0.0*4.0
+    0-sgen-15-45.p_mw: 0.0*4.0
+    0-sgen-16-50.p_mw: 0.0*4.0
+    0-sgen-17-53.p_mw: 0.0*4.0
+    0-sgen-19-57.p_mw: 0.0*4.0
+    0-sgen-2-20.p_mw: 0.0*4.0
+    0-sgen-20-63.p_mw: 0.0*4.0
+    0-sgen-21-65.p_mw: 0.0*4.0
+    0-sgen-22-67.p_mw: 0.0*4.0
+    0-sgen-23-71.p_mw: 0.0*4.0
+    0-sgen-24-80.p_mw: 0.0*4.0
+    0-sgen-5-25.p_mw: 0.0*4.0
+    0-sgen-6-28.p_mw: 0.0*4.0
+    0-sgen-7-30.p_mw: 0.0*4.0
+    0-sgen-9-33.p_mw: 0.0*4.0
 - - 0*24*60*60+8*900
   - 0*24*60*60+8*900+899
-  - PV Fischereihafen: 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0*4.0
-    PV Lehe - 0: 0.0*4.0
-    PV Lehe - 1: 0.0*4.0
-    PV Lehe - 2: 0.0*4.0
-    PV Lehe - 3: 0.0*4.0
-    PV Lehe - 4: 0.0*4.0
-    PV Leherheide - 0: 0.0*4.0
-    PV Leherheide - 1: 0.0*4.0
-    PV Mitte - 0: 0.0*4.0
-    PV Mitte - 1: 0.0*4.0
-    PV Schiffdorferdamm: 0.0*4.0
-    PV Surheide: 0.0*4.0
-    PV Weddewarden: 0.0*4.0
-    PV Wulsdorf - 0: 0.0*4.0
-    PV Wulsdorf - 1: 0.0*4.0
+  - 0-sgen-1-17.p_mw: 0.0*4.0
+    0-sgen-10-35.p_mw: 0.0*4.0
+    0-sgen-11-37.p_mw: 0.0*4.0
+    0-sgen-13-40.p_mw: 0.0*4.0
+    0-sgen-15-45.p_mw: 0.0*4.0
+    0-sgen-16-50.p_mw: 0.0*4.0
+    0-sgen-17-53.p_mw: 0.0*4.0
+    0-sgen-19-57.p_mw: 0.0*4.0
+    0-sgen-2-20.p_mw: 0.0*4.0
+    0-sgen-20-63.p_mw: 0.0*4.0
+    0-sgen-21-65.p_mw: 0.0*4.0
+    0-sgen-22-67.p_mw: 0.0*4.0
+    0-sgen-23-71.p_mw: 0.0*4.0
+    0-sgen-24-80.p_mw: 0.0*4.0
+    0-sgen-5-25.p_mw: 0.0*4.0
+    0-sgen-6-28.p_mw: 0.0*4.0
+    0-sgen-7-30.p_mw: 0.0*4.0
+    0-sgen-9-33.p_mw: 0.0*4.0
 - - 0*24*60*60+9*900
   - 0*24*60*60+9*900+899
-  - PV Fischereihafen: 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0*4.0
-    PV Lehe - 0: 0.0*4.0
-    PV Lehe - 1: 0.0*4.0
-    PV Lehe - 2: 0.0*4.0
-    PV Lehe - 3: 0.0*4.0
-    PV Lehe - 4: 0.0*4.0
-    PV Leherheide - 0: 0.0*4.0
-    PV Leherheide - 1: 0.0*4.0
-    PV Mitte - 0: 0.0*4.0
-    PV Mitte - 1: 0.0*4.0
-    PV Schiffdorferdamm: 0.0*4.0
-    PV Surheide: 0.0*4.0
-    PV Weddewarden: 0.0*4.0
-    PV Wulsdorf - 0: 0.0*4.0
-    PV Wulsdorf - 1: 0.0*4.0
+  - 0-sgen-1-17.p_mw: 0.0*4.0
+    0-sgen-10-35.p_mw: 0.0*4.0
+    0-sgen-11-37.p_mw: 0.0*4.0
+    0-sgen-13-40.p_mw: 0.0*4.0
+    0-sgen-15-45.p_mw: 0.0*4.0
+    0-sgen-16-50.p_mw: 0.0*4.0
+    0-sgen-17-53.p_mw: 0.0*4.0
+    0-sgen-19-57.p_mw: 0.0*4.0
+    0-sgen-2-20.p_mw: 0.0*4.0
+    0-sgen-20-63.p_mw: 0.0*4.0
+    0-sgen-21-65.p_mw: 0.0*4.0
+    0-sgen-22-67.p_mw: 0.0*4.0
+    0-sgen-23-71.p_mw: 0.0*4.0
+    0-sgen-24-80.p_mw: 0.0*4.0
+    0-sgen-5-25.p_mw: 0.0*4.0
+    0-sgen-6-28.p_mw: 0.0*4.0
+    0-sgen-7-30.p_mw: 0.0*4.0
+    0-sgen-9-33.p_mw: 0.0*4.0
 - - 0*24*60*60+10*900
   - 0*24*60*60+10*900+899
-  - PV Fischereihafen: 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0*4.0
-    PV Lehe - 0: 0.0*4.0
-    PV Lehe - 1: 0.0*4.0
-    PV Lehe - 2: 0.0*4.0
-    PV Lehe - 3: 0.0*4.0
-    PV Lehe - 4: 0.0*4.0
-    PV Leherheide - 0: 0.0*4.0
-    PV Leherheide - 1: 0.0*4.0
-    PV Mitte - 0: 0.0*4.0
-    PV Mitte - 1: 0.0*4.0
-    PV Schiffdorferdamm: 0.0*4.0
-    PV Surheide: 0.0*4.0
-    PV Weddewarden: 0.0*4.0
-    PV Wulsdorf - 0: 0.0*4.0
-    PV Wulsdorf - 1: 0.0*4.0
+  - 0-sgen-1-17.p_mw: 0.0*4.0
+    0-sgen-10-35.p_mw: 0.0*4.0
+    0-sgen-11-37.p_mw: 0.0*4.0
+    0-sgen-13-40.p_mw: 0.0*4.0
+    0-sgen-15-45.p_mw: 0.0*4.0
+    0-sgen-16-50.p_mw: 0.0*4.0
+    0-sgen-17-53.p_mw: 0.0*4.0
+    0-sgen-19-57.p_mw: 0.0*4.0
+    0-sgen-2-20.p_mw: 0.0*4.0
+    0-sgen-20-63.p_mw: 0.0*4.0
+    0-sgen-21-65.p_mw: 0.0*4.0
+    0-sgen-22-67.p_mw: 0.0*4.0
+    0-sgen-23-71.p_mw: 0.0*4.0
+    0-sgen-24-80.p_mw: 0.0*4.0
+    0-sgen-5-25.p_mw: 0.0*4.0
+    0-sgen-6-28.p_mw: 0.0*4.0
+    0-sgen-7-30.p_mw: 0.0*4.0
+    0-sgen-9-33.p_mw: 0.0*4.0
 - - 0*24*60*60+11*900
   - 0*24*60*60+11*900+899
-  - PV Fischereihafen: 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0*4.0
-    PV Lehe - 0: 0.0*4.0
-    PV Lehe - 1: 0.0*4.0
-    PV Lehe - 2: 0.0*4.0
-    PV Lehe - 3: 0.0*4.0
-    PV Lehe - 4: 0.0*4.0
-    PV Leherheide - 0: 0.0*4.0
-    PV Leherheide - 1: 0.0*4.0
-    PV Mitte - 0: 0.0*4.0
-    PV Mitte - 1: 0.0*4.0
-    PV Schiffdorferdamm: 0.0*4.0
-    PV Surheide: 0.0*4.0
-    PV Weddewarden: 0.0*4.0
-    PV Wulsdorf - 0: 0.0*4.0
-    PV Wulsdorf - 1: 0.0*4.0
+  - 0-sgen-1-17.p_mw: 0.0*4.0
+    0-sgen-10-35.p_mw: 0.0*4.0
+    0-sgen-11-37.p_mw: 0.0*4.0
+    0-sgen-13-40.p_mw: 0.0*4.0
+    0-sgen-15-45.p_mw: 0.0*4.0
+    0-sgen-16-50.p_mw: 0.0*4.0
+    0-sgen-17-53.p_mw: 0.0*4.0
+    0-sgen-19-57.p_mw: 0.0*4.0
+    0-sgen-2-20.p_mw: 0.0*4.0
+    0-sgen-20-63.p_mw: 0.0*4.0
+    0-sgen-21-65.p_mw: 0.0*4.0
+    0-sgen-22-67.p_mw: 0.0*4.0
+    0-sgen-23-71.p_mw: 0.0*4.0
+    0-sgen-24-80.p_mw: 0.0*4.0
+    0-sgen-5-25.p_mw: 0.0*4.0
+    0-sgen-6-28.p_mw: 0.0*4.0
+    0-sgen-7-30.p_mw: 0.0*4.0
+    0-sgen-9-33.p_mw: 0.0*4.0
 - - 0*24*60*60+12*900
   - 0*24*60*60+12*900+899
-  - PV Fischereihafen: 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0*4.0
-    PV Lehe - 0: 0.0*4.0
-    PV Lehe - 1: 0.0*4.0
-    PV Lehe - 2: 0.0*4.0
-    PV Lehe - 3: 0.0*4.0
-    PV Lehe - 4: 0.0*4.0
-    PV Leherheide - 0: 0.0*4.0
-    PV Leherheide - 1: 0.0*4.0
-    PV Mitte - 0: 0.0*4.0
-    PV Mitte - 1: 0.0*4.0
-    PV Schiffdorferdamm: 0.0*4.0
-    PV Surheide: 0.0*4.0
-    PV Weddewarden: 0.0*4.0
-    PV Wulsdorf - 0: 0.0*4.0
-    PV Wulsdorf - 1: 0.0*4.0
+  - 0-sgen-1-17.p_mw: 0.0*4.0
+    0-sgen-10-35.p_mw: 0.0*4.0
+    0-sgen-11-37.p_mw: 0.0*4.0
+    0-sgen-13-40.p_mw: 0.0*4.0
+    0-sgen-15-45.p_mw: 0.0*4.0
+    0-sgen-16-50.p_mw: 0.0*4.0
+    0-sgen-17-53.p_mw: 0.0*4.0
+    0-sgen-19-57.p_mw: 0.0*4.0
+    0-sgen-2-20.p_mw: 0.0*4.0
+    0-sgen-20-63.p_mw: 0.0*4.0
+    0-sgen-21-65.p_mw: 0.0*4.0
+    0-sgen-22-67.p_mw: 0.0*4.0
+    0-sgen-23-71.p_mw: 0.0*4.0
+    0-sgen-24-80.p_mw: 0.0*4.0
+    0-sgen-5-25.p_mw: 0.0*4.0
+    0-sgen-6-28.p_mw: 0.0*4.0
+    0-sgen-7-30.p_mw: 0.0*4.0
+    0-sgen-9-33.p_mw: 0.0*4.0
 - - 0*24*60*60+13*900
   - 0*24*60*60+13*900+899
-  - PV Fischereihafen: 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0*4.0
-    PV Lehe - 0: 0.0*4.0
-    PV Lehe - 1: 0.0*4.0
-    PV Lehe - 2: 0.0*4.0
-    PV Lehe - 3: 0.0*4.0
-    PV Lehe - 4: 0.0*4.0
-    PV Leherheide - 0: 0.0*4.0
-    PV Leherheide - 1: 0.0*4.0
-    PV Mitte - 0: 0.0*4.0
-    PV Mitte - 1: 0.0*4.0
-    PV Schiffdorferdamm: 0.0*4.0
-    PV Surheide: 0.0*4.0
-    PV Weddewarden: 0.0*4.0
-    PV Wulsdorf - 0: 0.0*4.0
-    PV Wulsdorf - 1: 0.0*4.0
+  - 0-sgen-1-17.p_mw: 0.0*4.0
+    0-sgen-10-35.p_mw: 0.0*4.0
+    0-sgen-11-37.p_mw: 0.0*4.0
+    0-sgen-13-40.p_mw: 0.0*4.0
+    0-sgen-15-45.p_mw: 0.0*4.0
+    0-sgen-16-50.p_mw: 0.0*4.0
+    0-sgen-17-53.p_mw: 0.0*4.0
+    0-sgen-19-57.p_mw: 0.0*4.0
+    0-sgen-2-20.p_mw: 0.0*4.0
+    0-sgen-20-63.p_mw: 0.0*4.0
+    0-sgen-21-65.p_mw: 0.0*4.0
+    0-sgen-22-67.p_mw: 0.0*4.0
+    0-sgen-23-71.p_mw: 0.0*4.0
+    0-sgen-24-80.p_mw: 0.0*4.0
+    0-sgen-5-25.p_mw: 0.0*4.0
+    0-sgen-6-28.p_mw: 0.0*4.0
+    0-sgen-7-30.p_mw: 0.0*4.0
+    0-sgen-9-33.p_mw: 0.0*4.0
 - - 0*24*60*60+14*900
   - 0*24*60*60+14*900+899
-  - PV Fischereihafen: 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0*4.0
-    PV Lehe - 0: 0.0*4.0
-    PV Lehe - 1: 0.0*4.0
-    PV Lehe - 2: 0.0*4.0
-    PV Lehe - 3: 0.0*4.0
-    PV Lehe - 4: 0.0*4.0
-    PV Leherheide - 0: 0.0*4.0
-    PV Leherheide - 1: 0.0*4.0
-    PV Mitte - 0: 0.0*4.0
-    PV Mitte - 1: 0.0*4.0
-    PV Schiffdorferdamm: 0.0*4.0
-    PV Surheide: 0.0*4.0
-    PV Weddewarden: 0.0*4.0
-    PV Wulsdorf - 0: 0.0*4.0
-    PV Wulsdorf - 1: 0.0*4.0
+  - 0-sgen-1-17.p_mw: 0.0*4.0
+    0-sgen-10-35.p_mw: 0.0*4.0
+    0-sgen-11-37.p_mw: 0.0*4.0
+    0-sgen-13-40.p_mw: 0.0*4.0
+    0-sgen-15-45.p_mw: 0.0*4.0
+    0-sgen-16-50.p_mw: 0.0*4.0
+    0-sgen-17-53.p_mw: 0.0*4.0
+    0-sgen-19-57.p_mw: 0.0*4.0
+    0-sgen-2-20.p_mw: 0.0*4.0
+    0-sgen-20-63.p_mw: 0.0*4.0
+    0-sgen-21-65.p_mw: 0.0*4.0
+    0-sgen-22-67.p_mw: 0.0*4.0
+    0-sgen-23-71.p_mw: 0.0*4.0
+    0-sgen-24-80.p_mw: 0.0*4.0
+    0-sgen-5-25.p_mw: 0.0*4.0
+    0-sgen-6-28.p_mw: 0.0*4.0
+    0-sgen-7-30.p_mw: 0.0*4.0
+    0-sgen-9-33.p_mw: 0.0*4.0
 - - 0*24*60*60+15*900
   - 0*24*60*60+15*900+899
-  - PV Fischereihafen: 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0*4.0
-    PV Lehe - 0: 0.0*4.0
-    PV Lehe - 1: 0.0*4.0
-    PV Lehe - 2: 0.0*4.0
-    PV Lehe - 3: 0.0*4.0
-    PV Lehe - 4: 0.0*4.0
-    PV Leherheide - 0: 0.0*4.0
-    PV Leherheide - 1: 0.0*4.0
-    PV Mitte - 0: 0.0*4.0
-    PV Mitte - 1: 0.0*4.0
-    PV Schiffdorferdamm: 0.0*4.0
-    PV Surheide: 0.0*4.0
-    PV Weddewarden: 0.0*4.0
-    PV Wulsdorf - 0: 0.0*4.0
-    PV Wulsdorf - 1: 0.0*4.0
+  - 0-sgen-1-17.p_mw: 0.0*4.0
+    0-sgen-10-35.p_mw: 0.0*4.0
+    0-sgen-11-37.p_mw: 0.0*4.0
+    0-sgen-13-40.p_mw: 0.0*4.0
+    0-sgen-15-45.p_mw: 0.0*4.0
+    0-sgen-16-50.p_mw: 0.0*4.0
+    0-sgen-17-53.p_mw: 0.0*4.0
+    0-sgen-19-57.p_mw: 0.0*4.0
+    0-sgen-2-20.p_mw: 0.0*4.0
+    0-sgen-20-63.p_mw: 0.0*4.0
+    0-sgen-21-65.p_mw: 0.0*4.0
+    0-sgen-22-67.p_mw: 0.0*4.0
+    0-sgen-23-71.p_mw: 0.0*4.0
+    0-sgen-24-80.p_mw: 0.0*4.0
+    0-sgen-5-25.p_mw: 0.0*4.0
+    0-sgen-6-28.p_mw: 0.0*4.0
+    0-sgen-7-30.p_mw: 0.0*4.0
+    0-sgen-9-33.p_mw: 0.0*4.0
 - - 0*24*60*60+16*900
   - 0*24*60*60+16*900+899
-  - PV Fischereihafen: 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0*4.0
-    PV Lehe - 0: 0.0*4.0
-    PV Lehe - 1: 0.0*4.0
-    PV Lehe - 2: 0.0*4.0
-    PV Lehe - 3: 0.0*4.0
-    PV Lehe - 4: 0.0*4.0
-    PV Leherheide - 0: 0.0*4.0
-    PV Leherheide - 1: 0.0*4.0
-    PV Mitte - 0: 0.0*4.0
-    PV Mitte - 1: 0.0*4.0
-    PV Schiffdorferdamm: 0.0*4.0
-    PV Surheide: 0.0*4.0
-    PV Weddewarden: 0.0*4.0
-    PV Wulsdorf - 0: 0.0*4.0
-    PV Wulsdorf - 1: 0.0*4.0
+  - 0-sgen-1-17.p_mw: 0.0*4.0
+    0-sgen-10-35.p_mw: 0.0*4.0
+    0-sgen-11-37.p_mw: 0.0*4.0
+    0-sgen-13-40.p_mw: 0.0*4.0
+    0-sgen-15-45.p_mw: 0.0*4.0
+    0-sgen-16-50.p_mw: 0.0*4.0
+    0-sgen-17-53.p_mw: 0.0*4.0
+    0-sgen-19-57.p_mw: 0.0*4.0
+    0-sgen-2-20.p_mw: 0.0*4.0
+    0-sgen-20-63.p_mw: 0.0*4.0
+    0-sgen-21-65.p_mw: 0.0*4.0
+    0-sgen-22-67.p_mw: 0.0*4.0
+    0-sgen-23-71.p_mw: 0.0*4.0
+    0-sgen-24-80.p_mw: 0.0*4.0
+    0-sgen-5-25.p_mw: 0.0*4.0
+    0-sgen-6-28.p_mw: 0.0*4.0
+    0-sgen-7-30.p_mw: 0.0*4.0
+    0-sgen-9-33.p_mw: 0.0*4.0
 - - 0*24*60*60+17*900
   - 0*24*60*60+17*900+899
-  - PV Fischereihafen: 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0*4.0
-    PV Lehe - 0: 0.0*4.0
-    PV Lehe - 1: 0.0*4.0
-    PV Lehe - 2: 0.0*4.0
-    PV Lehe - 3: 0.0*4.0
-    PV Lehe - 4: 0.0*4.0
-    PV Leherheide - 0: 0.0*4.0
-    PV Leherheide - 1: 0.0*4.0
-    PV Mitte - 0: 0.0*4.0
-    PV Mitte - 1: 0.0*4.0
-    PV Schiffdorferdamm: 0.0*4.0
-    PV Surheide: 0.0*4.0
-    PV Weddewarden: 0.0*4.0
-    PV Wulsdorf - 0: 0.0*4.0
-    PV Wulsdorf - 1: 0.0*4.0
+  - 0-sgen-1-17.p_mw: 0.0*4.0
+    0-sgen-10-35.p_mw: 0.0*4.0
+    0-sgen-11-37.p_mw: 0.0*4.0
+    0-sgen-13-40.p_mw: 0.0*4.0
+    0-sgen-15-45.p_mw: 0.0*4.0
+    0-sgen-16-50.p_mw: 0.0*4.0
+    0-sgen-17-53.p_mw: 0.0*4.0
+    0-sgen-19-57.p_mw: 0.0*4.0
+    0-sgen-2-20.p_mw: 0.0*4.0
+    0-sgen-20-63.p_mw: 0.0*4.0
+    0-sgen-21-65.p_mw: 0.0*4.0
+    0-sgen-22-67.p_mw: 0.0*4.0
+    0-sgen-23-71.p_mw: 0.0*4.0
+    0-sgen-24-80.p_mw: 0.0*4.0
+    0-sgen-5-25.p_mw: 0.0*4.0
+    0-sgen-6-28.p_mw: 0.0*4.0
+    0-sgen-7-30.p_mw: 0.0*4.0
+    0-sgen-9-33.p_mw: 0.0*4.0
 - - 0*24*60*60+18*900
   - 0*24*60*60+18*900+899
-  - PV Fischereihafen: 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0*4.0
-    PV Lehe - 0: 0.0*4.0
-    PV Lehe - 1: 0.0*4.0
-    PV Lehe - 2: 0.0*4.0
-    PV Lehe - 3: 0.0*4.0
-    PV Lehe - 4: 0.0*4.0
-    PV Leherheide - 0: 0.0*4.0
-    PV Leherheide - 1: 0.0*4.0
-    PV Mitte - 0: 0.0*4.0
-    PV Mitte - 1: 0.0*4.0
-    PV Schiffdorferdamm: 0.0*4.0
-    PV Surheide: 0.0*4.0
-    PV Weddewarden: 0.0*4.0
-    PV Wulsdorf - 0: 0.0*4.0
-    PV Wulsdorf - 1: 0.0*4.0
+  - 0-sgen-1-17.p_mw: 0.0*4.0
+    0-sgen-10-35.p_mw: 0.0*4.0
+    0-sgen-11-37.p_mw: 0.0*4.0
+    0-sgen-13-40.p_mw: 0.0*4.0
+    0-sgen-15-45.p_mw: 0.0*4.0
+    0-sgen-16-50.p_mw: 0.0*4.0
+    0-sgen-17-53.p_mw: 0.0*4.0
+    0-sgen-19-57.p_mw: 0.0*4.0
+    0-sgen-2-20.p_mw: 0.0*4.0
+    0-sgen-20-63.p_mw: 0.0*4.0
+    0-sgen-21-65.p_mw: 0.0*4.0
+    0-sgen-22-67.p_mw: 0.0*4.0
+    0-sgen-23-71.p_mw: 0.0*4.0
+    0-sgen-24-80.p_mw: 0.0*4.0
+    0-sgen-5-25.p_mw: 0.0*4.0
+    0-sgen-6-28.p_mw: 0.0*4.0
+    0-sgen-7-30.p_mw: 0.0*4.0
+    0-sgen-9-33.p_mw: 0.0*4.0
 - - 0*24*60*60+19*900
   - 0*24*60*60+19*900+899
-  - PV Fischereihafen: 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0*4.0
-    PV Lehe - 0: 0.0*4.0
-    PV Lehe - 1: 0.0*4.0
-    PV Lehe - 2: 0.0*4.0
-    PV Lehe - 3: 0.0*4.0
-    PV Lehe - 4: 0.0*4.0
-    PV Leherheide - 0: 0.0*4.0
-    PV Leherheide - 1: 0.0*4.0
-    PV Mitte - 0: 0.0*4.0
-    PV Mitte - 1: 0.0*4.0
-    PV Schiffdorferdamm: 0.0*4.0
-    PV Surheide: 0.0*4.0
-    PV Weddewarden: 0.0*4.0
-    PV Wulsdorf - 0: 0.0*4.0
-    PV Wulsdorf - 1: 0.0*4.0
+  - 0-sgen-1-17.p_mw: 0.0*4.0
+    0-sgen-10-35.p_mw: 0.0*4.0
+    0-sgen-11-37.p_mw: 0.0*4.0
+    0-sgen-13-40.p_mw: 0.0*4.0
+    0-sgen-15-45.p_mw: 0.0*4.0
+    0-sgen-16-50.p_mw: 0.0*4.0
+    0-sgen-17-53.p_mw: 0.0*4.0
+    0-sgen-19-57.p_mw: 0.0*4.0
+    0-sgen-2-20.p_mw: 0.0*4.0
+    0-sgen-20-63.p_mw: 0.0*4.0
+    0-sgen-21-65.p_mw: 0.0*4.0
+    0-sgen-22-67.p_mw: 0.0*4.0
+    0-sgen-23-71.p_mw: 0.0*4.0
+    0-sgen-24-80.p_mw: 0.0*4.0
+    0-sgen-5-25.p_mw: 0.0*4.0
+    0-sgen-6-28.p_mw: 0.0*4.0
+    0-sgen-7-30.p_mw: 0.0*4.0
+    0-sgen-9-33.p_mw: 0.0*4.0
 - - 0*24*60*60+20*900
   - 0*24*60*60+20*900+899
-  - PV Fischereihafen: 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0*4.0
-    PV Lehe - 0: 0.0*4.0
-    PV Lehe - 1: 0.0*4.0
-    PV Lehe - 2: 0.0*4.0
-    PV Lehe - 3: 0.0*4.0
-    PV Lehe - 4: 0.0*4.0
-    PV Leherheide - 0: 0.0*4.0
-    PV Leherheide - 1: 0.0*4.0
-    PV Mitte - 0: 0.0*4.0
-    PV Mitte - 1: 0.0*4.0
-    PV Schiffdorferdamm: 0.0*4.0
-    PV Surheide: 0.0*4.0
-    PV Weddewarden: 0.0*4.0
-    PV Wulsdorf - 0: 0.0*4.0
-    PV Wulsdorf - 1: 0.0*4.0
+  - 0-sgen-1-17.p_mw: 0.0*4.0
+    0-sgen-10-35.p_mw: 0.0*4.0
+    0-sgen-11-37.p_mw: 0.0*4.0
+    0-sgen-13-40.p_mw: 0.0*4.0
+    0-sgen-15-45.p_mw: 0.0*4.0
+    0-sgen-16-50.p_mw: 0.0*4.0
+    0-sgen-17-53.p_mw: 0.0*4.0
+    0-sgen-19-57.p_mw: 0.0*4.0
+    0-sgen-2-20.p_mw: 0.0*4.0
+    0-sgen-20-63.p_mw: 0.0*4.0
+    0-sgen-21-65.p_mw: 0.0*4.0
+    0-sgen-22-67.p_mw: 0.0*4.0
+    0-sgen-23-71.p_mw: 0.0*4.0
+    0-sgen-24-80.p_mw: 0.0*4.0
+    0-sgen-5-25.p_mw: 0.0*4.0
+    0-sgen-6-28.p_mw: 0.0*4.0
+    0-sgen-7-30.p_mw: 0.0*4.0
+    0-sgen-9-33.p_mw: 0.0*4.0
 - - 0*24*60*60+21*900
   - 0*24*60*60+21*900+899
-  - PV Fischereihafen: 2.2e-05*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.00227*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.00227*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.00227*4.0
-    PV Lehe - 0: 0.00112*4.0
-    PV Lehe - 1: 0.0012*4.0
-    PV Lehe - 2: 0.00133*4.0
-    PV Lehe - 3: 0.00122*4.0
-    PV Lehe - 4: 0.0012*4.0
-    PV Leherheide - 0: 0.00125*4.0
-    PV Leherheide - 1: 0.000759*4.0
-    PV Mitte - 0: 0.000902*4.0
-    PV Mitte - 1: 0.000869*4.0
-    PV Schiffdorferdamm: 0.000352*4.0
-    PV Surheide: 0.000429*4.0
-    PV Weddewarden: 7.7e-05*4.0
-    PV Wulsdorf - 0: 0.000902*4.0
-    PV Wulsdorf - 1: 0.000682*4.0
+  - 0-sgen-1-17.p_mw: 2.2e-05*4.0
+    0-sgen-10-35.p_mw: 0.00227*4.0
+    0-sgen-11-37.p_mw: 0.00227*4.0
+    0-sgen-13-40.p_mw: 0.00227*4.0
+    0-sgen-15-45.p_mw: 0.00112*4.0
+    0-sgen-16-50.p_mw: 0.0012*4.0
+    0-sgen-17-53.p_mw: 0.00133*4.0
+    0-sgen-19-57.p_mw: 0.00122*4.0
+    0-sgen-2-20.p_mw: 0.0012*4.0
+    0-sgen-20-63.p_mw: 0.00125*4.0
+    0-sgen-21-65.p_mw: 0.000759*4.0
+    0-sgen-22-67.p_mw: 0.000902*4.0
+    0-sgen-23-71.p_mw: 0.000869*4.0
+    0-sgen-24-80.p_mw: 0.000352*4.0
+    0-sgen-5-25.p_mw: 0.000429*4.0
+    0-sgen-6-28.p_mw: 7.7e-05*4.0
+    0-sgen-7-30.p_mw: 0.000902*4.0
+    0-sgen-9-33.p_mw: 0.000682*4.0
 - - 0*24*60*60+22*900
   - 0*24*60*60+22*900+899
-  - PV Fischereihafen: 9.08e-05*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.00764*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.00764*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.00764*4.0
-    PV Lehe - 0: 0.00377*4.0
-    PV Lehe - 1: 0.00405*4.0
-    PV Lehe - 2: 0.00451*4.0
-    PV Lehe - 3: 0.00414*4.0
-    PV Lehe - 4: 0.00405*4.0
-    PV Leherheide - 0: 0.00423*4.0
-    PV Leherheide - 1: 0.00258*4.0
-    PV Mitte - 0: 0.00304*4.0
-    PV Mitte - 1: 0.00294*4.0
-    PV Schiffdorferdamm: 0.00119*4.0
-    PV Surheide: 0.00147*4.0
-    PV Weddewarden: 0.000276*4.0
-    PV Wulsdorf - 0: 0.00304*4.0
-    PV Wulsdorf - 1: 0.0023*4.0
+  - 0-sgen-1-17.p_mw: 9.08e-05*4.0
+    0-sgen-10-35.p_mw: 0.00764*4.0
+    0-sgen-11-37.p_mw: 0.00764*4.0
+    0-sgen-13-40.p_mw: 0.00764*4.0
+    0-sgen-15-45.p_mw: 0.00377*4.0
+    0-sgen-16-50.p_mw: 0.00405*4.0
+    0-sgen-17-53.p_mw: 0.00451*4.0
+    0-sgen-19-57.p_mw: 0.00414*4.0
+    0-sgen-2-20.p_mw: 0.00405*4.0
+    0-sgen-20-63.p_mw: 0.00423*4.0
+    0-sgen-21-65.p_mw: 0.00258*4.0
+    0-sgen-22-67.p_mw: 0.00304*4.0
+    0-sgen-23-71.p_mw: 0.00294*4.0
+    0-sgen-24-80.p_mw: 0.00119*4.0
+    0-sgen-5-25.p_mw: 0.00147*4.0
+    0-sgen-6-28.p_mw: 0.000276*4.0
+    0-sgen-7-30.p_mw: 0.00304*4.0
+    0-sgen-9-33.p_mw: 0.0023*4.0
 - - 0*24*60*60+23*900
   - 0*24*60*60+23*900+899
-  - PV Fischereihafen: 0.000178*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0148*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0148*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0148*4.0
-    PV Lehe - 0: 0.00729*4.0
-    PV Lehe - 1: 0.00783*4.0
-    PV Lehe - 2: 0.00872*4.0
-    PV Lehe - 3: 0.008*4.0
-    PV Lehe - 4: 0.00783*4.0
-    PV Leherheide - 0: 0.00818*4.0
-    PV Leherheide - 1: 0.00498*4.0
-    PV Mitte - 0: 0.00587*4.0
-    PV Mitte - 1: 0.00569*4.0
-    PV Schiffdorferdamm: 0.00231*4.0
-    PV Surheide: 0.00285*4.0
-    PV Weddewarden: 0.000533*4.0
-    PV Wulsdorf - 0: 0.00587*4.0
-    PV Wulsdorf - 1: 0.00445*4.0
+  - 0-sgen-1-17.p_mw: 0.000178*4.0
+    0-sgen-10-35.p_mw: 0.0148*4.0
+    0-sgen-11-37.p_mw: 0.0148*4.0
+    0-sgen-13-40.p_mw: 0.0148*4.0
+    0-sgen-15-45.p_mw: 0.00729*4.0
+    0-sgen-16-50.p_mw: 0.00783*4.0
+    0-sgen-17-53.p_mw: 0.00872*4.0
+    0-sgen-19-57.p_mw: 0.008*4.0
+    0-sgen-2-20.p_mw: 0.00783*4.0
+    0-sgen-20-63.p_mw: 0.00818*4.0
+    0-sgen-21-65.p_mw: 0.00498*4.0
+    0-sgen-22-67.p_mw: 0.00587*4.0
+    0-sgen-23-71.p_mw: 0.00569*4.0
+    0-sgen-24-80.p_mw: 0.00231*4.0
+    0-sgen-5-25.p_mw: 0.00285*4.0
+    0-sgen-6-28.p_mw: 0.000533*4.0
+    0-sgen-7-30.p_mw: 0.00587*4.0
+    0-sgen-9-33.p_mw: 0.00445*4.0
 - - 0*24*60*60+24*900
   - 0*24*60*60+24*900+899
-  - PV Fischereihafen: 0.000296*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0247*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0247*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0247*4.0
-    PV Lehe - 0: 0.0122*4.0
-    PV Lehe - 1: 0.0131*4.0
-    PV Lehe - 2: 0.0146*4.0
-    PV Lehe - 3: 0.0134*4.0
-    PV Lehe - 4: 0.0131*4.0
-    PV Leherheide - 0: 0.0137*4.0
-    PV Leherheide - 1: 0.00832*4.0
-    PV Mitte - 0: 0.00981*4.0
-    PV Mitte - 1: 0.00951*4.0
-    PV Schiffdorferdamm: 0.00386*4.0
-    PV Surheide: 0.00476*4.0
-    PV Weddewarden: 0.000891*4.0
-    PV Wulsdorf - 0: 0.00981*4.0
-    PV Wulsdorf - 1: 0.00743*4.0
+  - 0-sgen-1-17.p_mw: 0.000296*4.0
+    0-sgen-10-35.p_mw: 0.0247*4.0
+    0-sgen-11-37.p_mw: 0.0247*4.0
+    0-sgen-13-40.p_mw: 0.0247*4.0
+    0-sgen-15-45.p_mw: 0.0122*4.0
+    0-sgen-16-50.p_mw: 0.0131*4.0
+    0-sgen-17-53.p_mw: 0.0146*4.0
+    0-sgen-19-57.p_mw: 0.0134*4.0
+    0-sgen-2-20.p_mw: 0.0131*4.0
+    0-sgen-20-63.p_mw: 0.0137*4.0
+    0-sgen-21-65.p_mw: 0.00832*4.0
+    0-sgen-22-67.p_mw: 0.00981*4.0
+    0-sgen-23-71.p_mw: 0.00951*4.0
+    0-sgen-24-80.p_mw: 0.00386*4.0
+    0-sgen-5-25.p_mw: 0.00476*4.0
+    0-sgen-6-28.p_mw: 0.000891*4.0
+    0-sgen-7-30.p_mw: 0.00981*4.0
+    0-sgen-9-33.p_mw: 0.00743*4.0
 - - 0*24*60*60+25*900
   - 0*24*60*60+25*900+899
-  - PV Fischereihafen: 0.000454*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0377*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0377*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0377*4.0
-    PV Lehe - 0: 0.0186*4.0
-    PV Lehe - 1: 0.02*4.0
-    PV Lehe - 2: 0.0222*4.0
-    PV Lehe - 3: 0.0204*4.0
-    PV Lehe - 4: 0.02*4.0
-    PV Leherheide - 0: 0.0209*4.0
-    PV Leherheide - 1: 0.0127*4.0
-    PV Mitte - 0: 0.015*4.0
-    PV Mitte - 1: 0.0145*4.0
-    PV Schiffdorferdamm: 0.0059*4.0
-    PV Surheide: 0.00726*4.0
-    PV Weddewarden: 0.00136*4.0
-    PV Wulsdorf - 0: 0.015*4.0
-    PV Wulsdorf - 1: 0.0114*4.0
+  - 0-sgen-1-17.p_mw: 0.000454*4.0
+    0-sgen-10-35.p_mw: 0.0377*4.0
+    0-sgen-11-37.p_mw: 0.0377*4.0
+    0-sgen-13-40.p_mw: 0.0377*4.0
+    0-sgen-15-45.p_mw: 0.0186*4.0
+    0-sgen-16-50.p_mw: 0.02*4.0
+    0-sgen-17-53.p_mw: 0.0222*4.0
+    0-sgen-19-57.p_mw: 0.0204*4.0
+    0-sgen-2-20.p_mw: 0.02*4.0
+    0-sgen-20-63.p_mw: 0.0209*4.0
+    0-sgen-21-65.p_mw: 0.0127*4.0
+    0-sgen-22-67.p_mw: 0.015*4.0
+    0-sgen-23-71.p_mw: 0.0145*4.0
+    0-sgen-24-80.p_mw: 0.0059*4.0
+    0-sgen-5-25.p_mw: 0.00726*4.0
+    0-sgen-6-28.p_mw: 0.00136*4.0
+    0-sgen-7-30.p_mw: 0.015*4.0
+    0-sgen-9-33.p_mw: 0.0114*4.0
 - - 0*24*60*60+26*900
   - 0*24*60*60+26*900+899
-  - PV Fischereihafen: 0.000682*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0566*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0566*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0566*4.0
-    PV Lehe - 0: 0.028*4.0
-    PV Lehe - 1: 0.03*4.0
-    PV Lehe - 2: 0.0334*4.0
-    PV Lehe - 3: 0.0307*4.0
-    PV Lehe - 4: 0.03*4.0
-    PV Leherheide - 0: 0.0314*4.0
-    PV Leherheide - 1: 0.0191*4.0
-    PV Mitte - 0: 0.0225*4.0
-    PV Mitte - 1: 0.0218*4.0
-    PV Schiffdorferdamm: 0.00886*4.0
-    PV Surheide: 0.0109*4.0
-    PV Weddewarden: 0.00204*4.0
-    PV Wulsdorf - 0: 0.0225*4.0
-    PV Wulsdorf - 1: 0.017*4.0
+  - 0-sgen-1-17.p_mw: 0.000682*4.0
+    0-sgen-10-35.p_mw: 0.0566*4.0
+    0-sgen-11-37.p_mw: 0.0566*4.0
+    0-sgen-13-40.p_mw: 0.0566*4.0
+    0-sgen-15-45.p_mw: 0.028*4.0
+    0-sgen-16-50.p_mw: 0.03*4.0
+    0-sgen-17-53.p_mw: 0.0334*4.0
+    0-sgen-19-57.p_mw: 0.0307*4.0
+    0-sgen-2-20.p_mw: 0.03*4.0
+    0-sgen-20-63.p_mw: 0.0314*4.0
+    0-sgen-21-65.p_mw: 0.0191*4.0
+    0-sgen-22-67.p_mw: 0.0225*4.0
+    0-sgen-23-71.p_mw: 0.0218*4.0
+    0-sgen-24-80.p_mw: 0.00886*4.0
+    0-sgen-5-25.p_mw: 0.0109*4.0
+    0-sgen-6-28.p_mw: 0.00204*4.0
+    0-sgen-7-30.p_mw: 0.0225*4.0
+    0-sgen-9-33.p_mw: 0.017*4.0
 - - 0*24*60*60+27*900
   - 0*24*60*60+27*900+899
-  - PV Fischereihafen: 0.000927*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.077*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.077*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.077*4.0
-    PV Lehe - 0: 0.0381*4.0
-    PV Lehe - 1: 0.0408*4.0
-    PV Lehe - 2: 0.0455*4.0
-    PV Lehe - 3: 0.0418*4.0
-    PV Lehe - 4: 0.0408*4.0
-    PV Leherheide - 0: 0.0427*4.0
-    PV Leherheide - 1: 0.026*4.0
-    PV Mitte - 0: 0.0306*4.0
-    PV Mitte - 1: 0.0297*4.0
-    PV Schiffdorferdamm: 0.0121*4.0
-    PV Surheide: 0.0148*4.0
-    PV Weddewarden: 0.00278*4.0
-    PV Wulsdorf - 0: 0.0306*4.0
-    PV Wulsdorf - 1: 0.0232*4.0
+  - 0-sgen-1-17.p_mw: 0.000927*4.0
+    0-sgen-10-35.p_mw: 0.077*4.0
+    0-sgen-11-37.p_mw: 0.077*4.0
+    0-sgen-13-40.p_mw: 0.077*4.0
+    0-sgen-15-45.p_mw: 0.0381*4.0
+    0-sgen-16-50.p_mw: 0.0408*4.0
+    0-sgen-17-53.p_mw: 0.0455*4.0
+    0-sgen-19-57.p_mw: 0.0418*4.0
+    0-sgen-2-20.p_mw: 0.0408*4.0
+    0-sgen-20-63.p_mw: 0.0427*4.0
+    0-sgen-21-65.p_mw: 0.026*4.0
+    0-sgen-22-67.p_mw: 0.0306*4.0
+    0-sgen-23-71.p_mw: 0.0297*4.0
+    0-sgen-24-80.p_mw: 0.0121*4.0
+    0-sgen-5-25.p_mw: 0.0148*4.0
+    0-sgen-6-28.p_mw: 0.00278*4.0
+    0-sgen-7-30.p_mw: 0.0306*4.0
+    0-sgen-9-33.p_mw: 0.0232*4.0
 - - 0*24*60*60+28*900
   - 0*24*60*60+28*900+899
-  - PV Fischereihafen: 0.00122*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.101*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.101*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.101*4.0
-    PV Lehe - 0: 0.0501*4.0
-    PV Lehe - 1: 0.0538*4.0
-    PV Lehe - 2: 0.0599*4.0
-    PV Lehe - 3: 0.055*4.0
-    PV Lehe - 4: 0.0538*4.0
-    PV Leherheide - 0: 0.0562*4.0
-    PV Leherheide - 1: 0.0342*4.0
-    PV Mitte - 0: 0.0403*4.0
-    PV Mitte - 1: 0.0391*4.0
-    PV Schiffdorferdamm: 0.0159*4.0
-    PV Surheide: 0.0195*4.0
-    PV Weddewarden: 0.00366*4.0
-    PV Wulsdorf - 0: 0.0403*4.0
-    PV Wulsdorf - 1: 0.0305*4.0
+  - 0-sgen-1-17.p_mw: 0.00122*4.0
+    0-sgen-10-35.p_mw: 0.101*4.0
+    0-sgen-11-37.p_mw: 0.101*4.0
+    0-sgen-13-40.p_mw: 0.101*4.0
+    0-sgen-15-45.p_mw: 0.0501*4.0
+    0-sgen-16-50.p_mw: 0.0538*4.0
+    0-sgen-17-53.p_mw: 0.0599*4.0
+    0-sgen-19-57.p_mw: 0.055*4.0
+    0-sgen-2-20.p_mw: 0.0538*4.0
+    0-sgen-20-63.p_mw: 0.0562*4.0
+    0-sgen-21-65.p_mw: 0.0342*4.0
+    0-sgen-22-67.p_mw: 0.0403*4.0
+    0-sgen-23-71.p_mw: 0.0391*4.0
+    0-sgen-24-80.p_mw: 0.0159*4.0
+    0-sgen-5-25.p_mw: 0.0195*4.0
+    0-sgen-6-28.p_mw: 0.00366*4.0
+    0-sgen-7-30.p_mw: 0.0403*4.0
+    0-sgen-9-33.p_mw: 0.0305*4.0
 - - 0*24*60*60+29*900
   - 0*24*60*60+29*900+899
-  - PV Fischereihafen: 0.00148*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.123*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.123*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.123*4.0
-    PV Lehe - 0: 0.0608*4.0
-    PV Lehe - 1: 0.0652*4.0
-    PV Lehe - 2: 0.0727*4.0
-    PV Lehe - 3: 0.0667*4.0
-    PV Lehe - 4: 0.0652*4.0
-    PV Leherheide - 0: 0.0682*4.0
-    PV Leherheide - 1: 0.0415*4.0
-    PV Mitte - 0: 0.0489*4.0
-    PV Mitte - 1: 0.0475*4.0
-    PV Schiffdorferdamm: 0.0193*4.0
-    PV Surheide: 0.0237*4.0
-    PV Weddewarden: 0.00445*4.0
-    PV Wulsdorf - 0: 0.0489*4.0
-    PV Wulsdorf - 1: 0.0371*4.0
+  - 0-sgen-1-17.p_mw: 0.00148*4.0
+    0-sgen-10-35.p_mw: 0.123*4.0
+    0-sgen-11-37.p_mw: 0.123*4.0
+    0-sgen-13-40.p_mw: 0.123*4.0
+    0-sgen-15-45.p_mw: 0.0608*4.0
+    0-sgen-16-50.p_mw: 0.0652*4.0
+    0-sgen-17-53.p_mw: 0.0727*4.0
+    0-sgen-19-57.p_mw: 0.0667*4.0
+    0-sgen-2-20.p_mw: 0.0652*4.0
+    0-sgen-20-63.p_mw: 0.0682*4.0
+    0-sgen-21-65.p_mw: 0.0415*4.0
+    0-sgen-22-67.p_mw: 0.0489*4.0
+    0-sgen-23-71.p_mw: 0.0475*4.0
+    0-sgen-24-80.p_mw: 0.0193*4.0
+    0-sgen-5-25.p_mw: 0.0237*4.0
+    0-sgen-6-28.p_mw: 0.00445*4.0
+    0-sgen-7-30.p_mw: 0.0489*4.0
+    0-sgen-9-33.p_mw: 0.0371*4.0
 - - 0*24*60*60+30*900
   - 0*24*60*60+30*900+899
-  - PV Fischereihafen: 0.00178*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.148*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.148*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.148*4.0
-    PV Lehe - 0: 0.0731*4.0
-    PV Lehe - 1: 0.0784*4.0
-    PV Lehe - 2: 0.0874*4.0
-    PV Lehe - 3: 0.0802*4.0
-    PV Lehe - 4: 0.0784*4.0
-    PV Leherheide - 0: 0.082*4.0
-    PV Leherheide - 1: 0.0499*4.0
-    PV Mitte - 0: 0.0588*4.0
-    PV Mitte - 1: 0.057*4.0
-    PV Schiffdorferdamm: 0.0232*4.0
-    PV Surheide: 0.0285*4.0
-    PV Weddewarden: 0.00535*4.0
-    PV Wulsdorf - 0: 0.0588*4.0
-    PV Wulsdorf - 1: 0.0446*4.0
+  - 0-sgen-1-17.p_mw: 0.00178*4.0
+    0-sgen-10-35.p_mw: 0.148*4.0
+    0-sgen-11-37.p_mw: 0.148*4.0
+    0-sgen-13-40.p_mw: 0.148*4.0
+    0-sgen-15-45.p_mw: 0.0731*4.0
+    0-sgen-16-50.p_mw: 0.0784*4.0
+    0-sgen-17-53.p_mw: 0.0874*4.0
+    0-sgen-19-57.p_mw: 0.0802*4.0
+    0-sgen-2-20.p_mw: 0.0784*4.0
+    0-sgen-20-63.p_mw: 0.082*4.0
+    0-sgen-21-65.p_mw: 0.0499*4.0
+    0-sgen-22-67.p_mw: 0.0588*4.0
+    0-sgen-23-71.p_mw: 0.057*4.0
+    0-sgen-24-80.p_mw: 0.0232*4.0
+    0-sgen-5-25.p_mw: 0.0285*4.0
+    0-sgen-6-28.p_mw: 0.00535*4.0
+    0-sgen-7-30.p_mw: 0.0588*4.0
+    0-sgen-9-33.p_mw: 0.0446*4.0
 - - 0*24*60*60+31*900
   - 0*24*60*60+31*900+899
-  - PV Fischereihafen: 0.00206*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.171*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.171*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.171*4.0
-    PV Lehe - 0: 0.0846*4.0
-    PV Lehe - 1: 0.0908*4.0
-    PV Lehe - 2: 0.101*4.0
-    PV Lehe - 3: 0.0928*4.0
-    PV Lehe - 4: 0.0908*4.0
-    PV Leherheide - 0: 0.0949*4.0
-    PV Leherheide - 1: 0.0578*4.0
-    PV Mitte - 0: 0.0681*4.0
-    PV Mitte - 1: 0.066*4.0
-    PV Schiffdorferdamm: 0.0268*4.0
-    PV Surheide: 0.033*4.0
-    PV Weddewarden: 0.00619*4.0
-    PV Wulsdorf - 0: 0.0681*4.0
-    PV Wulsdorf - 1: 0.0516*4.0
+  - 0-sgen-1-17.p_mw: 0.00206*4.0
+    0-sgen-10-35.p_mw: 0.171*4.0
+    0-sgen-11-37.p_mw: 0.171*4.0
+    0-sgen-13-40.p_mw: 0.171*4.0
+    0-sgen-15-45.p_mw: 0.0846*4.0
+    0-sgen-16-50.p_mw: 0.0908*4.0
+    0-sgen-17-53.p_mw: 0.101*4.0
+    0-sgen-19-57.p_mw: 0.0928*4.0
+    0-sgen-2-20.p_mw: 0.0908*4.0
+    0-sgen-20-63.p_mw: 0.0949*4.0
+    0-sgen-21-65.p_mw: 0.0578*4.0
+    0-sgen-22-67.p_mw: 0.0681*4.0
+    0-sgen-23-71.p_mw: 0.066*4.0
+    0-sgen-24-80.p_mw: 0.0268*4.0
+    0-sgen-5-25.p_mw: 0.033*4.0
+    0-sgen-6-28.p_mw: 0.00619*4.0
+    0-sgen-7-30.p_mw: 0.0681*4.0
+    0-sgen-9-33.p_mw: 0.0516*4.0
 - - 0*24*60*60+32*900
   - 0*24*60*60+32*900+899
-  - PV Fischereihafen: 0.00234*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.194*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.194*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.194*4.0
-    PV Lehe - 0: 0.0958*4.0
-    PV Lehe - 1: 0.103*4.0
-    PV Lehe - 2: 0.115*4.0
-    PV Lehe - 3: 0.105*4.0
-    PV Lehe - 4: 0.103*4.0
-    PV Leherheide - 0: 0.108*4.0
-    PV Leherheide - 1: 0.0655*4.0
-    PV Mitte - 0: 0.0771*4.0
-    PV Mitte - 1: 0.0748*4.0
-    PV Schiffdorferdamm: 0.0304*4.0
-    PV Surheide: 0.0374*4.0
-    PV Weddewarden: 0.00701*4.0
-    PV Wulsdorf - 0: 0.0771*4.0
-    PV Wulsdorf - 1: 0.0584*4.0
+  - 0-sgen-1-17.p_mw: 0.00234*4.0
+    0-sgen-10-35.p_mw: 0.194*4.0
+    0-sgen-11-37.p_mw: 0.194*4.0
+    0-sgen-13-40.p_mw: 0.194*4.0
+    0-sgen-15-45.p_mw: 0.0958*4.0
+    0-sgen-16-50.p_mw: 0.103*4.0
+    0-sgen-17-53.p_mw: 0.115*4.0
+    0-sgen-19-57.p_mw: 0.105*4.0
+    0-sgen-2-20.p_mw: 0.103*4.0
+    0-sgen-20-63.p_mw: 0.108*4.0
+    0-sgen-21-65.p_mw: 0.0655*4.0
+    0-sgen-22-67.p_mw: 0.0771*4.0
+    0-sgen-23-71.p_mw: 0.0748*4.0
+    0-sgen-24-80.p_mw: 0.0304*4.0
+    0-sgen-5-25.p_mw: 0.0374*4.0
+    0-sgen-6-28.p_mw: 0.00701*4.0
+    0-sgen-7-30.p_mw: 0.0771*4.0
+    0-sgen-9-33.p_mw: 0.0584*4.0
 - - 0*24*60*60+33*900
   - 0*24*60*60+33*900+899
-  - PV Fischereihafen: 0.00269*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.223*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.223*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.223*4.0
-    PV Lehe - 0: 0.11*4.0
-    PV Lehe - 1: 0.118*4.0
-    PV Lehe - 2: 0.132*4.0
-    PV Lehe - 3: 0.121*4.0
-    PV Lehe - 4: 0.118*4.0
-    PV Leherheide - 0: 0.124*4.0
-    PV Leherheide - 1: 0.0753*4.0
-    PV Mitte - 0: 0.0887*4.0
-    PV Mitte - 1: 0.086*4.0
-    PV Schiffdorferdamm: 0.0349*4.0
-    PV Surheide: 0.043*4.0
-    PV Weddewarden: 0.00806*4.0
-    PV Wulsdorf - 0: 0.0887*4.0
-    PV Wulsdorf - 1: 0.0672*4.0
+  - 0-sgen-1-17.p_mw: 0.00269*4.0
+    0-sgen-10-35.p_mw: 0.223*4.0
+    0-sgen-11-37.p_mw: 0.223*4.0
+    0-sgen-13-40.p_mw: 0.223*4.0
+    0-sgen-15-45.p_mw: 0.11*4.0
+    0-sgen-16-50.p_mw: 0.118*4.0
+    0-sgen-17-53.p_mw: 0.132*4.0
+    0-sgen-19-57.p_mw: 0.121*4.0
+    0-sgen-2-20.p_mw: 0.118*4.0
+    0-sgen-20-63.p_mw: 0.124*4.0
+    0-sgen-21-65.p_mw: 0.0753*4.0
+    0-sgen-22-67.p_mw: 0.0887*4.0
+    0-sgen-23-71.p_mw: 0.086*4.0
+    0-sgen-24-80.p_mw: 0.0349*4.0
+    0-sgen-5-25.p_mw: 0.043*4.0
+    0-sgen-6-28.p_mw: 0.00806*4.0
+    0-sgen-7-30.p_mw: 0.0887*4.0
+    0-sgen-9-33.p_mw: 0.0672*4.0
 - - 0*24*60*60+34*900
   - 0*24*60*60+34*900+899
-  - PV Fischereihafen: 0.00298*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.247*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.247*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.247*4.0
-    PV Lehe - 0: 0.122*4.0
-    PV Lehe - 1: 0.131*4.0
-    PV Lehe - 2: 0.146*4.0
-    PV Lehe - 3: 0.134*4.0
-    PV Lehe - 4: 0.131*4.0
-    PV Leherheide - 0: 0.137*4.0
-    PV Leherheide - 1: 0.0834*4.0
-    PV Mitte - 0: 0.0983*4.0
-    PV Mitte - 1: 0.0953*4.0
-    PV Schiffdorferdamm: 0.0387*4.0
-    PV Surheide: 0.0477*4.0
-    PV Weddewarden: 0.00893*4.0
-    PV Wulsdorf - 0: 0.0983*4.0
-    PV Wulsdorf - 1: 0.0745*4.0
+  - 0-sgen-1-17.p_mw: 0.00298*4.0
+    0-sgen-10-35.p_mw: 0.247*4.0
+    0-sgen-11-37.p_mw: 0.247*4.0
+    0-sgen-13-40.p_mw: 0.247*4.0
+    0-sgen-15-45.p_mw: 0.122*4.0
+    0-sgen-16-50.p_mw: 0.131*4.0
+    0-sgen-17-53.p_mw: 0.146*4.0
+    0-sgen-19-57.p_mw: 0.134*4.0
+    0-sgen-2-20.p_mw: 0.131*4.0
+    0-sgen-20-63.p_mw: 0.137*4.0
+    0-sgen-21-65.p_mw: 0.0834*4.0
+    0-sgen-22-67.p_mw: 0.0983*4.0
+    0-sgen-23-71.p_mw: 0.0953*4.0
+    0-sgen-24-80.p_mw: 0.0387*4.0
+    0-sgen-5-25.p_mw: 0.0477*4.0
+    0-sgen-6-28.p_mw: 0.00893*4.0
+    0-sgen-7-30.p_mw: 0.0983*4.0
+    0-sgen-9-33.p_mw: 0.0745*4.0
 - - 0*24*60*60+35*900
   - 0*24*60*60+35*900+899
-  - PV Fischereihafen: 0.00326*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.271*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.271*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.271*4.0
-    PV Lehe - 0: 0.134*4.0
-    PV Lehe - 1: 0.143*4.0
-    PV Lehe - 2: 0.16*4.0
-    PV Lehe - 3: 0.147*4.0
-    PV Lehe - 4: 0.143*4.0
-    PV Leherheide - 0: 0.15*4.0
-    PV Leherheide - 1: 0.0913*4.0
-    PV Mitte - 0: 0.108*4.0
-    PV Mitte - 1: 0.104*4.0
-    PV Schiffdorferdamm: 0.0424*4.0
-    PV Surheide: 0.0522*4.0
-    PV Weddewarden: 0.00978*4.0
-    PV Wulsdorf - 0: 0.108*4.0
-    PV Wulsdorf - 1: 0.0815*4.0
+  - 0-sgen-1-17.p_mw: 0.00326*4.0
+    0-sgen-10-35.p_mw: 0.271*4.0
+    0-sgen-11-37.p_mw: 0.271*4.0
+    0-sgen-13-40.p_mw: 0.271*4.0
+    0-sgen-15-45.p_mw: 0.134*4.0
+    0-sgen-16-50.p_mw: 0.143*4.0
+    0-sgen-17-53.p_mw: 0.16*4.0
+    0-sgen-19-57.p_mw: 0.147*4.0
+    0-sgen-2-20.p_mw: 0.143*4.0
+    0-sgen-20-63.p_mw: 0.15*4.0
+    0-sgen-21-65.p_mw: 0.0913*4.0
+    0-sgen-22-67.p_mw: 0.108*4.0
+    0-sgen-23-71.p_mw: 0.104*4.0
+    0-sgen-24-80.p_mw: 0.0424*4.0
+    0-sgen-5-25.p_mw: 0.0522*4.0
+    0-sgen-6-28.p_mw: 0.00978*4.0
+    0-sgen-7-30.p_mw: 0.108*4.0
+    0-sgen-9-33.p_mw: 0.0815*4.0
 - - 0*24*60*60+36*900
   - 0*24*60*60+36*900+899
-  - PV Fischereihafen: 0.00362*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.301*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.301*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.301*4.0
-    PV Lehe - 0: 0.148*4.0
-    PV Lehe - 1: 0.159*4.0
-    PV Lehe - 2: 0.177*4.0
-    PV Lehe - 3: 0.163*4.0
-    PV Lehe - 4: 0.159*4.0
-    PV Leherheide - 0: 0.167*4.0
-    PV Leherheide - 1: 0.101*4.0
-    PV Mitte - 0: 0.12*4.0
-    PV Mitte - 1: 0.116*4.0
-    PV Schiffdorferdamm: 0.0471*4.0
-    PV Surheide: 0.0579*4.0
-    PV Weddewarden: 0.0109*4.0
-    PV Wulsdorf - 0: 0.12*4.0
-    PV Wulsdorf - 1: 0.0905*4.0
+  - 0-sgen-1-17.p_mw: 0.00362*4.0
+    0-sgen-10-35.p_mw: 0.301*4.0
+    0-sgen-11-37.p_mw: 0.301*4.0
+    0-sgen-13-40.p_mw: 0.301*4.0
+    0-sgen-15-45.p_mw: 0.148*4.0
+    0-sgen-16-50.p_mw: 0.159*4.0
+    0-sgen-17-53.p_mw: 0.177*4.0
+    0-sgen-19-57.p_mw: 0.163*4.0
+    0-sgen-2-20.p_mw: 0.159*4.0
+    0-sgen-20-63.p_mw: 0.167*4.0
+    0-sgen-21-65.p_mw: 0.101*4.0
+    0-sgen-22-67.p_mw: 0.12*4.0
+    0-sgen-23-71.p_mw: 0.116*4.0
+    0-sgen-24-80.p_mw: 0.0471*4.0
+    0-sgen-5-25.p_mw: 0.0579*4.0
+    0-sgen-6-28.p_mw: 0.0109*4.0
+    0-sgen-7-30.p_mw: 0.12*4.0
+    0-sgen-9-33.p_mw: 0.0905*4.0
 - - 0*24*60*60+37*900
   - 0*24*60*60+37*900+899
-  - PV Fischereihafen: 0.00395*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.328*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.328*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.328*4.0
-    PV Lehe - 0: 0.162*4.0
-    PV Lehe - 1: 0.174*4.0
-    PV Lehe - 2: 0.194*4.0
-    PV Lehe - 3: 0.178*4.0
-    PV Lehe - 4: 0.174*4.0
-    PV Leherheide - 0: 0.182*4.0
-    PV Leherheide - 1: 0.111*4.0
-    PV Mitte - 0: 0.13*4.0
-    PV Mitte - 1: 0.126*4.0
-    PV Schiffdorferdamm: 0.0513*4.0
-    PV Surheide: 0.0632*4.0
-    PV Weddewarden: 0.0118*4.0
-    PV Wulsdorf - 0: 0.13*4.0
-    PV Wulsdorf - 1: 0.0987*4.0
+  - 0-sgen-1-17.p_mw: 0.00395*4.0
+    0-sgen-10-35.p_mw: 0.328*4.0
+    0-sgen-11-37.p_mw: 0.328*4.0
+    0-sgen-13-40.p_mw: 0.328*4.0
+    0-sgen-15-45.p_mw: 0.162*4.0
+    0-sgen-16-50.p_mw: 0.174*4.0
+    0-sgen-17-53.p_mw: 0.194*4.0
+    0-sgen-19-57.p_mw: 0.178*4.0
+    0-sgen-2-20.p_mw: 0.174*4.0
+    0-sgen-20-63.p_mw: 0.182*4.0
+    0-sgen-21-65.p_mw: 0.111*4.0
+    0-sgen-22-67.p_mw: 0.13*4.0
+    0-sgen-23-71.p_mw: 0.126*4.0
+    0-sgen-24-80.p_mw: 0.0513*4.0
+    0-sgen-5-25.p_mw: 0.0632*4.0
+    0-sgen-6-28.p_mw: 0.0118*4.0
+    0-sgen-7-30.p_mw: 0.13*4.0
+    0-sgen-9-33.p_mw: 0.0987*4.0
 - - 0*24*60*60+38*900
   - 0*24*60*60+38*900+899
-  - PV Fischereihafen: 0.00447*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.371*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.371*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.371*4.0
-    PV Lehe - 0: 0.183*4.0
-    PV Lehe - 1: 0.197*4.0
-    PV Lehe - 2: 0.219*4.0
-    PV Lehe - 3: 0.201*4.0
-    PV Lehe - 4: 0.197*4.0
-    PV Leherheide - 0: 0.206*4.0
-    PV Leherheide - 1: 0.125*4.0
-    PV Mitte - 0: 0.148*4.0
-    PV Mitte - 1: 0.143*4.0
-    PV Schiffdorferdamm: 0.0581*4.0
-    PV Surheide: 0.0715*4.0
-    PV Weddewarden: 0.0134*4.0
-    PV Wulsdorf - 0: 0.148*4.0
-    PV Wulsdorf - 1: 0.112*4.0
+  - 0-sgen-1-17.p_mw: 0.00447*4.0
+    0-sgen-10-35.p_mw: 0.371*4.0
+    0-sgen-11-37.p_mw: 0.371*4.0
+    0-sgen-13-40.p_mw: 0.371*4.0
+    0-sgen-15-45.p_mw: 0.183*4.0
+    0-sgen-16-50.p_mw: 0.197*4.0
+    0-sgen-17-53.p_mw: 0.219*4.0
+    0-sgen-19-57.p_mw: 0.201*4.0
+    0-sgen-2-20.p_mw: 0.197*4.0
+    0-sgen-20-63.p_mw: 0.206*4.0
+    0-sgen-21-65.p_mw: 0.125*4.0
+    0-sgen-22-67.p_mw: 0.148*4.0
+    0-sgen-23-71.p_mw: 0.143*4.0
+    0-sgen-24-80.p_mw: 0.0581*4.0
+    0-sgen-5-25.p_mw: 0.0715*4.0
+    0-sgen-6-28.p_mw: 0.0134*4.0
+    0-sgen-7-30.p_mw: 0.148*4.0
+    0-sgen-9-33.p_mw: 0.112*4.0
 - - 0*24*60*60+39*900
   - 0*24*60*60+39*900+899
-  - PV Fischereihafen: 0.0048*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.398*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.398*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.398*4.0
-    PV Lehe - 0: 0.197*4.0
-    PV Lehe - 1: 0.211*4.0
-    PV Lehe - 2: 0.235*4.0
-    PV Lehe - 3: 0.216*4.0
-    PV Lehe - 4: 0.211*4.0
-    PV Leherheide - 0: 0.221*4.0
-    PV Leherheide - 1: 0.134*4.0
-    PV Mitte - 0: 0.158*4.0
-    PV Mitte - 1: 0.153*4.0
-    PV Schiffdorferdamm: 0.0623*4.0
-    PV Surheide: 0.0767*4.0
-    PV Weddewarden: 0.0144*4.0
-    PV Wulsdorf - 0: 0.158*4.0
-    PV Wulsdorf - 1: 0.12*4.0
+  - 0-sgen-1-17.p_mw: 0.0048*4.0
+    0-sgen-10-35.p_mw: 0.398*4.0
+    0-sgen-11-37.p_mw: 0.398*4.0
+    0-sgen-13-40.p_mw: 0.398*4.0
+    0-sgen-15-45.p_mw: 0.197*4.0
+    0-sgen-16-50.p_mw: 0.211*4.0
+    0-sgen-17-53.p_mw: 0.235*4.0
+    0-sgen-19-57.p_mw: 0.216*4.0
+    0-sgen-2-20.p_mw: 0.211*4.0
+    0-sgen-20-63.p_mw: 0.221*4.0
+    0-sgen-21-65.p_mw: 0.134*4.0
+    0-sgen-22-67.p_mw: 0.158*4.0
+    0-sgen-23-71.p_mw: 0.153*4.0
+    0-sgen-24-80.p_mw: 0.0623*4.0
+    0-sgen-5-25.p_mw: 0.0767*4.0
+    0-sgen-6-28.p_mw: 0.0144*4.0
+    0-sgen-7-30.p_mw: 0.158*4.0
+    0-sgen-9-33.p_mw: 0.12*4.0
 - - 0*24*60*60+40*900
   - 0*24*60*60+40*900+899
-  - PV Fischereihafen: 0.00508*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.421*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.421*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.421*4.0
-    PV Lehe - 0: 0.208*4.0
-    PV Lehe - 1: 0.223*4.0
-    PV Lehe - 2: 0.249*4.0
-    PV Lehe - 3: 0.228*4.0
-    PV Lehe - 4: 0.223*4.0
-    PV Leherheide - 0: 0.234*4.0
-    PV Leherheide - 1: 0.142*4.0
-    PV Mitte - 0: 0.168*4.0
-    PV Mitte - 1: 0.162*4.0
-    PV Schiffdorferdamm: 0.066*4.0
-    PV Surheide: 0.0812*4.0
-    PV Weddewarden: 0.0152*4.0
-    PV Wulsdorf - 0: 0.168*4.0
-    PV Wulsdorf - 1: 0.127*4.0
+  - 0-sgen-1-17.p_mw: 0.00508*4.0
+    0-sgen-10-35.p_mw: 0.421*4.0
+    0-sgen-11-37.p_mw: 0.421*4.0
+    0-sgen-13-40.p_mw: 0.421*4.0
+    0-sgen-15-45.p_mw: 0.208*4.0
+    0-sgen-16-50.p_mw: 0.223*4.0
+    0-sgen-17-53.p_mw: 0.249*4.0
+    0-sgen-19-57.p_mw: 0.228*4.0
+    0-sgen-2-20.p_mw: 0.223*4.0
+    0-sgen-20-63.p_mw: 0.234*4.0
+    0-sgen-21-65.p_mw: 0.142*4.0
+    0-sgen-22-67.p_mw: 0.168*4.0
+    0-sgen-23-71.p_mw: 0.162*4.0
+    0-sgen-24-80.p_mw: 0.066*4.0
+    0-sgen-5-25.p_mw: 0.0812*4.0
+    0-sgen-6-28.p_mw: 0.0152*4.0
+    0-sgen-7-30.p_mw: 0.168*4.0
+    0-sgen-9-33.p_mw: 0.127*4.0
 - - 0*24*60*60+41*900
   - 0*24*60*60+41*900+899
-  - PV Fischereihafen: 0.0056*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.465*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.465*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.465*4.0
-    PV Lehe - 0: 0.23*4.0
-    PV Lehe - 1: 0.247*4.0
-    PV Lehe - 2: 0.275*4.0
-    PV Lehe - 3: 0.252*4.0
-    PV Lehe - 4: 0.247*4.0
-    PV Leherheide - 0: 0.258*4.0
-    PV Leherheide - 1: 0.157*4.0
-    PV Mitte - 0: 0.185*4.0
-    PV Mitte - 1: 0.179*4.0
-    PV Schiffdorferdamm: 0.0729*4.0
-    PV Surheide: 0.0897*4.0
-    PV Weddewarden: 0.0168*4.0
-    PV Wulsdorf - 0: 0.185*4.0
-    PV Wulsdorf - 1: 0.14*4.0
+  - 0-sgen-1-17.p_mw: 0.0056*4.0
+    0-sgen-10-35.p_mw: 0.465*4.0
+    0-sgen-11-37.p_mw: 0.465*4.0
+    0-sgen-13-40.p_mw: 0.465*4.0
+    0-sgen-15-45.p_mw: 0.23*4.0
+    0-sgen-16-50.p_mw: 0.247*4.0
+    0-sgen-17-53.p_mw: 0.275*4.0
+    0-sgen-19-57.p_mw: 0.252*4.0
+    0-sgen-2-20.p_mw: 0.247*4.0
+    0-sgen-20-63.p_mw: 0.258*4.0
+    0-sgen-21-65.p_mw: 0.157*4.0
+    0-sgen-22-67.p_mw: 0.185*4.0
+    0-sgen-23-71.p_mw: 0.179*4.0
+    0-sgen-24-80.p_mw: 0.0729*4.0
+    0-sgen-5-25.p_mw: 0.0897*4.0
+    0-sgen-6-28.p_mw: 0.0168*4.0
+    0-sgen-7-30.p_mw: 0.185*4.0
+    0-sgen-9-33.p_mw: 0.14*4.0
 - - 0*24*60*60+42*900
   - 0*24*60*60+42*900+899
-  - PV Fischereihafen: 0.00594*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.493*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.493*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.493*4.0
-    PV Lehe - 0: 0.244*4.0
-    PV Lehe - 1: 0.262*4.0
-    PV Lehe - 2: 0.291*4.0
-    PV Lehe - 3: 0.268*4.0
-    PV Lehe - 4: 0.262*4.0
-    PV Leherheide - 0: 0.273*4.0
-    PV Leherheide - 1: 0.166*4.0
-    PV Mitte - 0: 0.196*4.0
-    PV Mitte - 1: 0.19*4.0
-    PV Schiffdorferdamm: 0.0773*4.0
-    PV Surheide: 0.0951*4.0
-    PV Weddewarden: 0.0178*4.0
-    PV Wulsdorf - 0: 0.196*4.0
-    PV Wulsdorf - 1: 0.149*4.0
+  - 0-sgen-1-17.p_mw: 0.00594*4.0
+    0-sgen-10-35.p_mw: 0.493*4.0
+    0-sgen-11-37.p_mw: 0.493*4.0
+    0-sgen-13-40.p_mw: 0.493*4.0
+    0-sgen-15-45.p_mw: 0.244*4.0
+    0-sgen-16-50.p_mw: 0.262*4.0
+    0-sgen-17-53.p_mw: 0.291*4.0
+    0-sgen-19-57.p_mw: 0.268*4.0
+    0-sgen-2-20.p_mw: 0.262*4.0
+    0-sgen-20-63.p_mw: 0.273*4.0
+    0-sgen-21-65.p_mw: 0.166*4.0
+    0-sgen-22-67.p_mw: 0.196*4.0
+    0-sgen-23-71.p_mw: 0.19*4.0
+    0-sgen-24-80.p_mw: 0.0773*4.0
+    0-sgen-5-25.p_mw: 0.0951*4.0
+    0-sgen-6-28.p_mw: 0.0178*4.0
+    0-sgen-7-30.p_mw: 0.196*4.0
+    0-sgen-9-33.p_mw: 0.149*4.0
 - - 0*24*60*60+43*900
   - 0*24*60*60+43*900+899
-  - PV Fischereihafen: 0.00628*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.521*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.521*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.521*4.0
-    PV Lehe - 0: 0.258*4.0
-    PV Lehe - 1: 0.276*4.0
-    PV Lehe - 2: 0.308*4.0
-    PV Lehe - 3: 0.283*4.0
-    PV Lehe - 4: 0.276*4.0
-    PV Leherheide - 0: 0.289*4.0
-    PV Leherheide - 1: 0.176*4.0
-    PV Mitte - 0: 0.207*4.0
-    PV Mitte - 1: 0.201*4.0
-    PV Schiffdorferdamm: 0.0817*4.0
-    PV Surheide: 0.101*4.0
-    PV Weddewarden: 0.0188*4.0
-    PV Wulsdorf - 0: 0.207*4.0
-    PV Wulsdorf - 1: 0.157*4.0
+  - 0-sgen-1-17.p_mw: 0.00628*4.0
+    0-sgen-10-35.p_mw: 0.521*4.0
+    0-sgen-11-37.p_mw: 0.521*4.0
+    0-sgen-13-40.p_mw: 0.521*4.0
+    0-sgen-15-45.p_mw: 0.258*4.0
+    0-sgen-16-50.p_mw: 0.276*4.0
+    0-sgen-17-53.p_mw: 0.308*4.0
+    0-sgen-19-57.p_mw: 0.283*4.0
+    0-sgen-2-20.p_mw: 0.276*4.0
+    0-sgen-20-63.p_mw: 0.289*4.0
+    0-sgen-21-65.p_mw: 0.176*4.0
+    0-sgen-22-67.p_mw: 0.207*4.0
+    0-sgen-23-71.p_mw: 0.201*4.0
+    0-sgen-24-80.p_mw: 0.0817*4.0
+    0-sgen-5-25.p_mw: 0.101*4.0
+    0-sgen-6-28.p_mw: 0.0188*4.0
+    0-sgen-7-30.p_mw: 0.207*4.0
+    0-sgen-9-33.p_mw: 0.157*4.0
 - - 0*24*60*60+44*900
   - 0*24*60*60+44*900+899
-  - PV Fischereihafen: 0.0066*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.548*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.548*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.548*4.0
-    PV Lehe - 0: 0.271*4.0
-    PV Lehe - 1: 0.29*4.0
-    PV Lehe - 2: 0.323*4.0
-    PV Lehe - 3: 0.297*4.0
-    PV Lehe - 4: 0.29*4.0
-    PV Leherheide - 0: 0.304*4.0
-    PV Leherheide - 1: 0.185*4.0
-    PV Mitte - 0: 0.218*4.0
-    PV Mitte - 1: 0.211*4.0
-    PV Schiffdorferdamm: 0.0858*4.0
-    PV Surheide: 0.106*4.0
-    PV Weddewarden: 0.0198*4.0
-    PV Wulsdorf - 0: 0.218*4.0
-    PV Wulsdorf - 1: 0.165*4.0
+  - 0-sgen-1-17.p_mw: 0.0066*4.0
+    0-sgen-10-35.p_mw: 0.548*4.0
+    0-sgen-11-37.p_mw: 0.548*4.0
+    0-sgen-13-40.p_mw: 0.548*4.0
+    0-sgen-15-45.p_mw: 0.271*4.0
+    0-sgen-16-50.p_mw: 0.29*4.0
+    0-sgen-17-53.p_mw: 0.323*4.0
+    0-sgen-19-57.p_mw: 0.297*4.0
+    0-sgen-2-20.p_mw: 0.29*4.0
+    0-sgen-20-63.p_mw: 0.304*4.0
+    0-sgen-21-65.p_mw: 0.185*4.0
+    0-sgen-22-67.p_mw: 0.218*4.0
+    0-sgen-23-71.p_mw: 0.211*4.0
+    0-sgen-24-80.p_mw: 0.0858*4.0
+    0-sgen-5-25.p_mw: 0.106*4.0
+    0-sgen-6-28.p_mw: 0.0198*4.0
+    0-sgen-7-30.p_mw: 0.218*4.0
+    0-sgen-9-33.p_mw: 0.165*4.0
 - - 0*24*60*60+45*900
   - 0*24*60*60+45*900+899
-  - PV Fischereihafen: 0.00698*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.579*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.579*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.579*4.0
-    PV Lehe - 0: 0.286*4.0
-    PV Lehe - 1: 0.307*4.0
-    PV Lehe - 2: 0.342*4.0
-    PV Lehe - 3: 0.314*4.0
-    PV Lehe - 4: 0.307*4.0
-    PV Leherheide - 0: 0.321*4.0
-    PV Leherheide - 1: 0.195*4.0
-    PV Mitte - 0: 0.23*4.0
-    PV Mitte - 1: 0.223*4.0
-    PV Schiffdorferdamm: 0.0907*4.0
-    PV Surheide: 0.112*4.0
-    PV Weddewarden: 0.0209*4.0
-    PV Wulsdorf - 0: 0.23*4.0
-    PV Wulsdorf - 1: 0.174*4.0
+  - 0-sgen-1-17.p_mw: 0.00698*4.0
+    0-sgen-10-35.p_mw: 0.579*4.0
+    0-sgen-11-37.p_mw: 0.579*4.0
+    0-sgen-13-40.p_mw: 0.579*4.0
+    0-sgen-15-45.p_mw: 0.286*4.0
+    0-sgen-16-50.p_mw: 0.307*4.0
+    0-sgen-17-53.p_mw: 0.342*4.0
+    0-sgen-19-57.p_mw: 0.314*4.0
+    0-sgen-2-20.p_mw: 0.307*4.0
+    0-sgen-20-63.p_mw: 0.321*4.0
+    0-sgen-21-65.p_mw: 0.195*4.0
+    0-sgen-22-67.p_mw: 0.23*4.0
+    0-sgen-23-71.p_mw: 0.223*4.0
+    0-sgen-24-80.p_mw: 0.0907*4.0
+    0-sgen-5-25.p_mw: 0.112*4.0
+    0-sgen-6-28.p_mw: 0.0209*4.0
+    0-sgen-7-30.p_mw: 0.23*4.0
+    0-sgen-9-33.p_mw: 0.174*4.0
 - - 0*24*60*60+46*900
   - 0*24*60*60+46*900+899
-  - PV Fischereihafen: 0.00737*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.612*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.612*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.612*4.0
-    PV Lehe - 0: 0.302*4.0
-    PV Lehe - 1: 0.324*4.0
-    PV Lehe - 2: 0.361*4.0
-    PV Lehe - 3: 0.332*4.0
-    PV Lehe - 4: 0.324*4.0
-    PV Leherheide - 0: 0.339*4.0
-    PV Leherheide - 1: 0.206*4.0
-    PV Mitte - 0: 0.243*4.0
-    PV Mitte - 1: 0.236*4.0
-    PV Schiffdorferdamm: 0.0958*4.0
-    PV Surheide: 0.118*4.0
-    PV Weddewarden: 0.0221*4.0
-    PV Wulsdorf - 0: 0.243*4.0
-    PV Wulsdorf - 1: 0.184*4.0
+  - 0-sgen-1-17.p_mw: 0.00737*4.0
+    0-sgen-10-35.p_mw: 0.612*4.0
+    0-sgen-11-37.p_mw: 0.612*4.0
+    0-sgen-13-40.p_mw: 0.612*4.0
+    0-sgen-15-45.p_mw: 0.302*4.0
+    0-sgen-16-50.p_mw: 0.324*4.0
+    0-sgen-17-53.p_mw: 0.361*4.0
+    0-sgen-19-57.p_mw: 0.332*4.0
+    0-sgen-2-20.p_mw: 0.324*4.0
+    0-sgen-20-63.p_mw: 0.339*4.0
+    0-sgen-21-65.p_mw: 0.206*4.0
+    0-sgen-22-67.p_mw: 0.243*4.0
+    0-sgen-23-71.p_mw: 0.236*4.0
+    0-sgen-24-80.p_mw: 0.0958*4.0
+    0-sgen-5-25.p_mw: 0.118*4.0
+    0-sgen-6-28.p_mw: 0.0221*4.0
+    0-sgen-7-30.p_mw: 0.243*4.0
+    0-sgen-9-33.p_mw: 0.184*4.0
 - - 0*24*60*60+47*900
   - 0*24*60*60+47*900+899
-  - PV Fischereihafen: 0.00752*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.624*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.624*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.624*4.0
-    PV Lehe - 0: 0.308*4.0
-    PV Lehe - 1: 0.331*4.0
-    PV Lehe - 2: 0.368*4.0
-    PV Lehe - 3: 0.338*4.0
-    PV Lehe - 4: 0.331*4.0
-    PV Leherheide - 0: 0.346*4.0
-    PV Leherheide - 1: 0.21*4.0
-    PV Mitte - 0: 0.248*4.0
-    PV Mitte - 1: 0.24*4.0
-    PV Schiffdorferdamm: 0.0977*4.0
-    PV Surheide: 0.12*4.0
-    PV Weddewarden: 0.0225*4.0
-    PV Wulsdorf - 0: 0.248*4.0
-    PV Wulsdorf - 1: 0.188*4.0
+  - 0-sgen-1-17.p_mw: 0.00752*4.0
+    0-sgen-10-35.p_mw: 0.624*4.0
+    0-sgen-11-37.p_mw: 0.624*4.0
+    0-sgen-13-40.p_mw: 0.624*4.0
+    0-sgen-15-45.p_mw: 0.308*4.0
+    0-sgen-16-50.p_mw: 0.331*4.0
+    0-sgen-17-53.p_mw: 0.368*4.0
+    0-sgen-19-57.p_mw: 0.338*4.0
+    0-sgen-2-20.p_mw: 0.331*4.0
+    0-sgen-20-63.p_mw: 0.346*4.0
+    0-sgen-21-65.p_mw: 0.21*4.0
+    0-sgen-22-67.p_mw: 0.248*4.0
+    0-sgen-23-71.p_mw: 0.24*4.0
+    0-sgen-24-80.p_mw: 0.0977*4.0
+    0-sgen-5-25.p_mw: 0.12*4.0
+    0-sgen-6-28.p_mw: 0.0225*4.0
+    0-sgen-7-30.p_mw: 0.248*4.0
+    0-sgen-9-33.p_mw: 0.188*4.0
 - - 0*24*60*60+48*900
   - 0*24*60*60+48*900+899
-  - PV Fischereihafen: 0.00769*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.638*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.638*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.638*4.0
-    PV Lehe - 0: 0.315*4.0
-    PV Lehe - 1: 0.338*4.0
-    PV Lehe - 2: 0.377*4.0
-    PV Lehe - 3: 0.346*4.0
-    PV Lehe - 4: 0.338*4.0
-    PV Leherheide - 0: 0.354*4.0
-    PV Leherheide - 1: 0.215*4.0
-    PV Mitte - 0: 0.254*4.0
-    PV Mitte - 1: 0.246*4.0
-    PV Schiffdorferdamm: 0.1*4.0
-    PV Surheide: 0.123*4.0
-    PV Weddewarden: 0.0231*4.0
-    PV Wulsdorf - 0: 0.254*4.0
-    PV Wulsdorf - 1: 0.192*4.0
+  - 0-sgen-1-17.p_mw: 0.00769*4.0
+    0-sgen-10-35.p_mw: 0.638*4.0
+    0-sgen-11-37.p_mw: 0.638*4.0
+    0-sgen-13-40.p_mw: 0.638*4.0
+    0-sgen-15-45.p_mw: 0.315*4.0
+    0-sgen-16-50.p_mw: 0.338*4.0
+    0-sgen-17-53.p_mw: 0.377*4.0
+    0-sgen-19-57.p_mw: 0.346*4.0
+    0-sgen-2-20.p_mw: 0.338*4.0
+    0-sgen-20-63.p_mw: 0.354*4.0
+    0-sgen-21-65.p_mw: 0.215*4.0
+    0-sgen-22-67.p_mw: 0.254*4.0
+    0-sgen-23-71.p_mw: 0.246*4.0
+    0-sgen-24-80.p_mw: 0.1*4.0
+    0-sgen-5-25.p_mw: 0.123*4.0
+    0-sgen-6-28.p_mw: 0.0231*4.0
+    0-sgen-7-30.p_mw: 0.254*4.0
+    0-sgen-9-33.p_mw: 0.192*4.0
 - - 0*24*60*60+49*900
   - 0*24*60*60+49*900+899
-  - PV Fischereihafen: 0.00766*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.636*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.636*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.636*4.0
-    PV Lehe - 0: 0.314*4.0
-    PV Lehe - 1: 0.337*4.0
-    PV Lehe - 2: 0.375*4.0
-    PV Lehe - 3: 0.345*4.0
-    PV Lehe - 4: 0.337*4.0
-    PV Leherheide - 0: 0.352*4.0
-    PV Leherheide - 1: 0.214*4.0
-    PV Mitte - 0: 0.253*4.0
-    PV Mitte - 1: 0.245*4.0
-    PV Schiffdorferdamm: 0.0995*4.0
-    PV Surheide: 0.123*4.0
-    PV Weddewarden: 0.023*4.0
-    PV Wulsdorf - 0: 0.253*4.0
-    PV Wulsdorf - 1: 0.191*4.0
+  - 0-sgen-1-17.p_mw: 0.00766*4.0
+    0-sgen-10-35.p_mw: 0.636*4.0
+    0-sgen-11-37.p_mw: 0.636*4.0
+    0-sgen-13-40.p_mw: 0.636*4.0
+    0-sgen-15-45.p_mw: 0.314*4.0
+    0-sgen-16-50.p_mw: 0.337*4.0
+    0-sgen-17-53.p_mw: 0.375*4.0
+    0-sgen-19-57.p_mw: 0.345*4.0
+    0-sgen-2-20.p_mw: 0.337*4.0
+    0-sgen-20-63.p_mw: 0.352*4.0
+    0-sgen-21-65.p_mw: 0.214*4.0
+    0-sgen-22-67.p_mw: 0.253*4.0
+    0-sgen-23-71.p_mw: 0.245*4.0
+    0-sgen-24-80.p_mw: 0.0995*4.0
+    0-sgen-5-25.p_mw: 0.123*4.0
+    0-sgen-6-28.p_mw: 0.023*4.0
+    0-sgen-7-30.p_mw: 0.253*4.0
+    0-sgen-9-33.p_mw: 0.191*4.0
 - - 0*24*60*60+50*900
   - 0*24*60*60+50*900+899
-  - PV Fischereihafen: 0.0077*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.639*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.639*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.639*4.0
-    PV Lehe - 0: 0.316*4.0
-    PV Lehe - 1: 0.339*4.0
-    PV Lehe - 2: 0.377*4.0
-    PV Lehe - 3: 0.346*4.0
-    PV Lehe - 4: 0.339*4.0
-    PV Leherheide - 0: 0.354*4.0
-    PV Leherheide - 1: 0.215*4.0
-    PV Mitte - 0: 0.254*4.0
-    PV Mitte - 1: 0.246*4.0
-    PV Schiffdorferdamm: 0.1*4.0
-    PV Surheide: 0.123*4.0
-    PV Weddewarden: 0.0231*4.0
-    PV Wulsdorf - 0: 0.254*4.0
-    PV Wulsdorf - 1: 0.192*4.0
+  - 0-sgen-1-17.p_mw: 0.0077*4.0
+    0-sgen-10-35.p_mw: 0.639*4.0
+    0-sgen-11-37.p_mw: 0.639*4.0
+    0-sgen-13-40.p_mw: 0.639*4.0
+    0-sgen-15-45.p_mw: 0.316*4.0
+    0-sgen-16-50.p_mw: 0.339*4.0
+    0-sgen-17-53.p_mw: 0.377*4.0
+    0-sgen-19-57.p_mw: 0.346*4.0
+    0-sgen-2-20.p_mw: 0.339*4.0
+    0-sgen-20-63.p_mw: 0.354*4.0
+    0-sgen-21-65.p_mw: 0.215*4.0
+    0-sgen-22-67.p_mw: 0.254*4.0
+    0-sgen-23-71.p_mw: 0.246*4.0
+    0-sgen-24-80.p_mw: 0.1*4.0
+    0-sgen-5-25.p_mw: 0.123*4.0
+    0-sgen-6-28.p_mw: 0.0231*4.0
+    0-sgen-7-30.p_mw: 0.254*4.0
+    0-sgen-9-33.p_mw: 0.192*4.0
 - - 0*24*60*60+51*900
   - 0*24*60*60+51*900+899
-  - PV Fischereihafen: 0.00788*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.654*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.654*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.654*4.0
-    PV Lehe - 0: 0.323*4.0
-    PV Lehe - 1: 0.347*4.0
-    PV Lehe - 2: 0.386*4.0
-    PV Lehe - 3: 0.354*4.0
-    PV Lehe - 4: 0.347*4.0
-    PV Leherheide - 0: 0.362*4.0
-    PV Leherheide - 1: 0.221*4.0
-    PV Mitte - 0: 0.26*4.0
-    PV Mitte - 1: 0.252*4.0
-    PV Schiffdorferdamm: 0.102*4.0
-    PV Surheide: 0.126*4.0
-    PV Weddewarden: 0.0236*4.0
-    PV Wulsdorf - 0: 0.26*4.0
-    PV Wulsdorf - 1: 0.197*4.0
+  - 0-sgen-1-17.p_mw: 0.00788*4.0
+    0-sgen-10-35.p_mw: 0.654*4.0
+    0-sgen-11-37.p_mw: 0.654*4.0
+    0-sgen-13-40.p_mw: 0.654*4.0
+    0-sgen-15-45.p_mw: 0.323*4.0
+    0-sgen-16-50.p_mw: 0.347*4.0
+    0-sgen-17-53.p_mw: 0.386*4.0
+    0-sgen-19-57.p_mw: 0.354*4.0
+    0-sgen-2-20.p_mw: 0.347*4.0
+    0-sgen-20-63.p_mw: 0.362*4.0
+    0-sgen-21-65.p_mw: 0.221*4.0
+    0-sgen-22-67.p_mw: 0.26*4.0
+    0-sgen-23-71.p_mw: 0.252*4.0
+    0-sgen-24-80.p_mw: 0.102*4.0
+    0-sgen-5-25.p_mw: 0.126*4.0
+    0-sgen-6-28.p_mw: 0.0236*4.0
+    0-sgen-7-30.p_mw: 0.26*4.0
+    0-sgen-9-33.p_mw: 0.197*4.0
 - - 0*24*60*60+52*900
   - 0*24*60*60+52*900+899
-  - PV Fischereihafen: 0.00781*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.648*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.648*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.648*4.0
-    PV Lehe - 0: 0.32*4.0
-    PV Lehe - 1: 0.344*4.0
-    PV Lehe - 2: 0.383*4.0
-    PV Lehe - 3: 0.352*4.0
-    PV Lehe - 4: 0.344*4.0
-    PV Leherheide - 0: 0.359*4.0
-    PV Leherheide - 1: 0.219*4.0
-    PV Mitte - 0: 0.258*4.0
-    PV Mitte - 1: 0.25*4.0
-    PV Schiffdorferdamm: 0.102*4.0
-    PV Surheide: 0.125*4.0
-    PV Weddewarden: 0.0234*4.0
-    PV Wulsdorf - 0: 0.258*4.0
-    PV Wulsdorf - 1: 0.195*4.0
+  - 0-sgen-1-17.p_mw: 0.00781*4.0
+    0-sgen-10-35.p_mw: 0.648*4.0
+    0-sgen-11-37.p_mw: 0.648*4.0
+    0-sgen-13-40.p_mw: 0.648*4.0
+    0-sgen-15-45.p_mw: 0.32*4.0
+    0-sgen-16-50.p_mw: 0.344*4.0
+    0-sgen-17-53.p_mw: 0.383*4.0
+    0-sgen-19-57.p_mw: 0.352*4.0
+    0-sgen-2-20.p_mw: 0.344*4.0
+    0-sgen-20-63.p_mw: 0.359*4.0
+    0-sgen-21-65.p_mw: 0.219*4.0
+    0-sgen-22-67.p_mw: 0.258*4.0
+    0-sgen-23-71.p_mw: 0.25*4.0
+    0-sgen-24-80.p_mw: 0.102*4.0
+    0-sgen-5-25.p_mw: 0.125*4.0
+    0-sgen-6-28.p_mw: 0.0234*4.0
+    0-sgen-7-30.p_mw: 0.258*4.0
+    0-sgen-9-33.p_mw: 0.195*4.0
 - - 0*24*60*60+53*900
   - 0*24*60*60+53*900+899
-  - PV Fischereihafen: 0.00789*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.655*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.655*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.655*4.0
-    PV Lehe - 0: 0.323*4.0
-    PV Lehe - 1: 0.347*4.0
-    PV Lehe - 2: 0.386*4.0
-    PV Lehe - 3: 0.355*4.0
-    PV Lehe - 4: 0.347*4.0
-    PV Leherheide - 0: 0.363*4.0
-    PV Leherheide - 1: 0.221*4.0
-    PV Mitte - 0: 0.26*4.0
-    PV Mitte - 1: 0.252*4.0
-    PV Schiffdorferdamm: 0.103*4.0
-    PV Surheide: 0.126*4.0
-    PV Weddewarden: 0.0237*4.0
-    PV Wulsdorf - 0: 0.26*4.0
-    PV Wulsdorf - 1: 0.197*4.0
+  - 0-sgen-1-17.p_mw: 0.00789*4.0
+    0-sgen-10-35.p_mw: 0.655*4.0
+    0-sgen-11-37.p_mw: 0.655*4.0
+    0-sgen-13-40.p_mw: 0.655*4.0
+    0-sgen-15-45.p_mw: 0.323*4.0
+    0-sgen-16-50.p_mw: 0.347*4.0
+    0-sgen-17-53.p_mw: 0.386*4.0
+    0-sgen-19-57.p_mw: 0.355*4.0
+    0-sgen-2-20.p_mw: 0.347*4.0
+    0-sgen-20-63.p_mw: 0.363*4.0
+    0-sgen-21-65.p_mw: 0.221*4.0
+    0-sgen-22-67.p_mw: 0.26*4.0
+    0-sgen-23-71.p_mw: 0.252*4.0
+    0-sgen-24-80.p_mw: 0.103*4.0
+    0-sgen-5-25.p_mw: 0.126*4.0
+    0-sgen-6-28.p_mw: 0.0237*4.0
+    0-sgen-7-30.p_mw: 0.26*4.0
+    0-sgen-9-33.p_mw: 0.197*4.0
 - - 0*24*60*60+54*900
   - 0*24*60*60+54*900+899
-  - PV Fischereihafen: 0.00768*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.638*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.638*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.638*4.0
-    PV Lehe - 0: 0.315*4.0
-    PV Lehe - 1: 0.338*4.0
-    PV Lehe - 2: 0.376*4.0
-    PV Lehe - 3: 0.346*4.0
-    PV Lehe - 4: 0.338*4.0
-    PV Leherheide - 0: 0.353*4.0
-    PV Leherheide - 1: 0.215*4.0
-    PV Mitte - 0: 0.254*4.0
-    PV Mitte - 1: 0.246*4.0
-    PV Schiffdorferdamm: 0.0999*4.0
-    PV Surheide: 0.123*4.0
-    PV Weddewarden: 0.023*4.0
-    PV Wulsdorf - 0: 0.254*4.0
-    PV Wulsdorf - 1: 0.192*4.0
+  - 0-sgen-1-17.p_mw: 0.00768*4.0
+    0-sgen-10-35.p_mw: 0.638*4.0
+    0-sgen-11-37.p_mw: 0.638*4.0
+    0-sgen-13-40.p_mw: 0.638*4.0
+    0-sgen-15-45.p_mw: 0.315*4.0
+    0-sgen-16-50.p_mw: 0.338*4.0
+    0-sgen-17-53.p_mw: 0.376*4.0
+    0-sgen-19-57.p_mw: 0.346*4.0
+    0-sgen-2-20.p_mw: 0.338*4.0
+    0-sgen-20-63.p_mw: 0.353*4.0
+    0-sgen-21-65.p_mw: 0.215*4.0
+    0-sgen-22-67.p_mw: 0.254*4.0
+    0-sgen-23-71.p_mw: 0.246*4.0
+    0-sgen-24-80.p_mw: 0.0999*4.0
+    0-sgen-5-25.p_mw: 0.123*4.0
+    0-sgen-6-28.p_mw: 0.023*4.0
+    0-sgen-7-30.p_mw: 0.254*4.0
+    0-sgen-9-33.p_mw: 0.192*4.0
 - - 0*24*60*60+55*900
   - 0*24*60*60+55*900+899
-  - PV Fischereihafen: 0.00752*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.624*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.624*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.624*4.0
-    PV Lehe - 0: 0.308*4.0
-    PV Lehe - 1: 0.331*4.0
-    PV Lehe - 2: 0.369*4.0
-    PV Lehe - 3: 0.339*4.0
-    PV Lehe - 4: 0.331*4.0
-    PV Leherheide - 0: 0.346*4.0
-    PV Leherheide - 1: 0.211*4.0
-    PV Mitte - 0: 0.248*4.0
-    PV Mitte - 1: 0.241*4.0
-    PV Schiffdorferdamm: 0.0978*4.0
-    PV Surheide: 0.12*4.0
-    PV Weddewarden: 0.0226*4.0
-    PV Wulsdorf - 0: 0.248*4.0
-    PV Wulsdorf - 1: 0.188*4.0
+  - 0-sgen-1-17.p_mw: 0.00752*4.0
+    0-sgen-10-35.p_mw: 0.624*4.0
+    0-sgen-11-37.p_mw: 0.624*4.0
+    0-sgen-13-40.p_mw: 0.624*4.0
+    0-sgen-15-45.p_mw: 0.308*4.0
+    0-sgen-16-50.p_mw: 0.331*4.0
+    0-sgen-17-53.p_mw: 0.369*4.0
+    0-sgen-19-57.p_mw: 0.339*4.0
+    0-sgen-2-20.p_mw: 0.331*4.0
+    0-sgen-20-63.p_mw: 0.346*4.0
+    0-sgen-21-65.p_mw: 0.211*4.0
+    0-sgen-22-67.p_mw: 0.248*4.0
+    0-sgen-23-71.p_mw: 0.241*4.0
+    0-sgen-24-80.p_mw: 0.0978*4.0
+    0-sgen-5-25.p_mw: 0.12*4.0
+    0-sgen-6-28.p_mw: 0.0226*4.0
+    0-sgen-7-30.p_mw: 0.248*4.0
+    0-sgen-9-33.p_mw: 0.188*4.0
 - - 0*24*60*60+56*900
   - 0*24*60*60+56*900+899
-  - PV Fischereihafen: 0.00779*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.647*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.647*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.647*4.0
-    PV Lehe - 0: 0.319*4.0
-    PV Lehe - 1: 0.343*4.0
-    PV Lehe - 2: 0.382*4.0
-    PV Lehe - 3: 0.351*4.0
-    PV Lehe - 4: 0.343*4.0
-    PV Leherheide - 0: 0.358*4.0
-    PV Leherheide - 1: 0.218*4.0
-    PV Mitte - 0: 0.257*4.0
-    PV Mitte - 1: 0.249*4.0
-    PV Schiffdorferdamm: 0.101*4.0
-    PV Surheide: 0.125*4.0
-    PV Weddewarden: 0.0234*4.0
-    PV Wulsdorf - 0: 0.257*4.0
-    PV Wulsdorf - 1: 0.195*4.0
+  - 0-sgen-1-17.p_mw: 0.00779*4.0
+    0-sgen-10-35.p_mw: 0.647*4.0
+    0-sgen-11-37.p_mw: 0.647*4.0
+    0-sgen-13-40.p_mw: 0.647*4.0
+    0-sgen-15-45.p_mw: 0.319*4.0
+    0-sgen-16-50.p_mw: 0.343*4.0
+    0-sgen-17-53.p_mw: 0.382*4.0
+    0-sgen-19-57.p_mw: 0.351*4.0
+    0-sgen-2-20.p_mw: 0.343*4.0
+    0-sgen-20-63.p_mw: 0.358*4.0
+    0-sgen-21-65.p_mw: 0.218*4.0
+    0-sgen-22-67.p_mw: 0.257*4.0
+    0-sgen-23-71.p_mw: 0.249*4.0
+    0-sgen-24-80.p_mw: 0.101*4.0
+    0-sgen-5-25.p_mw: 0.125*4.0
+    0-sgen-6-28.p_mw: 0.0234*4.0
+    0-sgen-7-30.p_mw: 0.257*4.0
+    0-sgen-9-33.p_mw: 0.195*4.0
 - - 0*24*60*60+57*900
   - 0*24*60*60+57*900+899
-  - PV Fischereihafen: 0.00753*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.625*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.625*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.625*4.0
-    PV Lehe - 0: 0.309*4.0
-    PV Lehe - 1: 0.331*4.0
-    PV Lehe - 2: 0.369*4.0
-    PV Lehe - 3: 0.339*4.0
-    PV Lehe - 4: 0.331*4.0
-    PV Leherheide - 0: 0.346*4.0
-    PV Leherheide - 1: 0.211*4.0
-    PV Mitte - 0: 0.248*4.0
-    PV Mitte - 1: 0.241*4.0
-    PV Schiffdorferdamm: 0.0978*4.0
-    PV Surheide: 0.12*4.0
-    PV Weddewarden: 0.0226*4.0
-    PV Wulsdorf - 0: 0.248*4.0
-    PV Wulsdorf - 1: 0.188*4.0
+  - 0-sgen-1-17.p_mw: 0.00753*4.0
+    0-sgen-10-35.p_mw: 0.625*4.0
+    0-sgen-11-37.p_mw: 0.625*4.0
+    0-sgen-13-40.p_mw: 0.625*4.0
+    0-sgen-15-45.p_mw: 0.309*4.0
+    0-sgen-16-50.p_mw: 0.331*4.0
+    0-sgen-17-53.p_mw: 0.369*4.0
+    0-sgen-19-57.p_mw: 0.339*4.0
+    0-sgen-2-20.p_mw: 0.331*4.0
+    0-sgen-20-63.p_mw: 0.346*4.0
+    0-sgen-21-65.p_mw: 0.211*4.0
+    0-sgen-22-67.p_mw: 0.248*4.0
+    0-sgen-23-71.p_mw: 0.241*4.0
+    0-sgen-24-80.p_mw: 0.0978*4.0
+    0-sgen-5-25.p_mw: 0.12*4.0
+    0-sgen-6-28.p_mw: 0.0226*4.0
+    0-sgen-7-30.p_mw: 0.248*4.0
+    0-sgen-9-33.p_mw: 0.188*4.0
 - - 0*24*60*60+58*900
   - 0*24*60*60+58*900+899
-  - PV Fischereihafen: 0.00744*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.617*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.617*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.617*4.0
-    PV Lehe - 0: 0.305*4.0
-    PV Lehe - 1: 0.327*4.0
-    PV Lehe - 2: 0.364*4.0
-    PV Lehe - 3: 0.335*4.0
-    PV Lehe - 4: 0.327*4.0
-    PV Leherheide - 0: 0.342*4.0
-    PV Leherheide - 1: 0.208*4.0
-    PV Mitte - 0: 0.245*4.0
-    PV Mitte - 1: 0.238*4.0
-    PV Schiffdorferdamm: 0.0967*4.0
-    PV Surheide: 0.119*4.0
-    PV Weddewarden: 0.0223*4.0
-    PV Wulsdorf - 0: 0.245*4.0
-    PV Wulsdorf - 1: 0.186*4.0
+  - 0-sgen-1-17.p_mw: 0.00744*4.0
+    0-sgen-10-35.p_mw: 0.617*4.0
+    0-sgen-11-37.p_mw: 0.617*4.0
+    0-sgen-13-40.p_mw: 0.617*4.0
+    0-sgen-15-45.p_mw: 0.305*4.0
+    0-sgen-16-50.p_mw: 0.327*4.0
+    0-sgen-17-53.p_mw: 0.364*4.0
+    0-sgen-19-57.p_mw: 0.335*4.0
+    0-sgen-2-20.p_mw: 0.327*4.0
+    0-sgen-20-63.p_mw: 0.342*4.0
+    0-sgen-21-65.p_mw: 0.208*4.0
+    0-sgen-22-67.p_mw: 0.245*4.0
+    0-sgen-23-71.p_mw: 0.238*4.0
+    0-sgen-24-80.p_mw: 0.0967*4.0
+    0-sgen-5-25.p_mw: 0.119*4.0
+    0-sgen-6-28.p_mw: 0.0223*4.0
+    0-sgen-7-30.p_mw: 0.245*4.0
+    0-sgen-9-33.p_mw: 0.186*4.0
 - - 0*24*60*60+59*900
   - 0*24*60*60+59*900+899
-  - PV Fischereihafen: 0.00746*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.619*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.619*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.619*4.0
-    PV Lehe - 0: 0.306*4.0
-    PV Lehe - 1: 0.328*4.0
-    PV Lehe - 2: 0.365*4.0
-    PV Lehe - 3: 0.336*4.0
-    PV Lehe - 4: 0.328*4.0
-    PV Leherheide - 0: 0.343*4.0
-    PV Leherheide - 1: 0.209*4.0
-    PV Mitte - 0: 0.246*4.0
-    PV Mitte - 1: 0.239*4.0
-    PV Schiffdorferdamm: 0.097*4.0
-    PV Surheide: 0.119*4.0
-    PV Weddewarden: 0.0224*4.0
-    PV Wulsdorf - 0: 0.246*4.0
-    PV Wulsdorf - 1: 0.186*4.0
+  - 0-sgen-1-17.p_mw: 0.00746*4.0
+    0-sgen-10-35.p_mw: 0.619*4.0
+    0-sgen-11-37.p_mw: 0.619*4.0
+    0-sgen-13-40.p_mw: 0.619*4.0
+    0-sgen-15-45.p_mw: 0.306*4.0
+    0-sgen-16-50.p_mw: 0.328*4.0
+    0-sgen-17-53.p_mw: 0.365*4.0
+    0-sgen-19-57.p_mw: 0.336*4.0
+    0-sgen-2-20.p_mw: 0.328*4.0
+    0-sgen-20-63.p_mw: 0.343*4.0
+    0-sgen-21-65.p_mw: 0.209*4.0
+    0-sgen-22-67.p_mw: 0.246*4.0
+    0-sgen-23-71.p_mw: 0.239*4.0
+    0-sgen-24-80.p_mw: 0.097*4.0
+    0-sgen-5-25.p_mw: 0.119*4.0
+    0-sgen-6-28.p_mw: 0.0224*4.0
+    0-sgen-7-30.p_mw: 0.246*4.0
+    0-sgen-9-33.p_mw: 0.186*4.0
 - - 0*24*60*60+60*900
   - 0*24*60*60+60*900+899
-  - PV Fischereihafen: 0.00732*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.608*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.608*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.608*4.0
-    PV Lehe - 0: 0.3*4.0
-    PV Lehe - 1: 0.322*4.0
-    PV Lehe - 2: 0.359*4.0
-    PV Lehe - 3: 0.33*4.0
-    PV Lehe - 4: 0.322*4.0
-    PV Leherheide - 0: 0.337*4.0
-    PV Leherheide - 1: 0.205*4.0
-    PV Mitte - 0: 0.242*4.0
-    PV Mitte - 1: 0.234*4.0
-    PV Schiffdorferdamm: 0.0952*4.0
-    PV Surheide: 0.117*4.0
-    PV Weddewarden: 0.022*4.0
-    PV Wulsdorf - 0: 0.242*4.0
-    PV Wulsdorf - 1: 0.183*4.0
+  - 0-sgen-1-17.p_mw: 0.00732*4.0
+    0-sgen-10-35.p_mw: 0.608*4.0
+    0-sgen-11-37.p_mw: 0.608*4.0
+    0-sgen-13-40.p_mw: 0.608*4.0
+    0-sgen-15-45.p_mw: 0.3*4.0
+    0-sgen-16-50.p_mw: 0.322*4.0
+    0-sgen-17-53.p_mw: 0.359*4.0
+    0-sgen-19-57.p_mw: 0.33*4.0
+    0-sgen-2-20.p_mw: 0.322*4.0
+    0-sgen-20-63.p_mw: 0.337*4.0
+    0-sgen-21-65.p_mw: 0.205*4.0
+    0-sgen-22-67.p_mw: 0.242*4.0
+    0-sgen-23-71.p_mw: 0.234*4.0
+    0-sgen-24-80.p_mw: 0.0952*4.0
+    0-sgen-5-25.p_mw: 0.117*4.0
+    0-sgen-6-28.p_mw: 0.022*4.0
+    0-sgen-7-30.p_mw: 0.242*4.0
+    0-sgen-9-33.p_mw: 0.183*4.0
 - - 0*24*60*60+61*900
   - 0*24*60*60+61*900+899
-  - PV Fischereihafen: 0.00715*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.594*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.594*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.594*4.0
-    PV Lehe - 0: 0.293*4.0
-    PV Lehe - 1: 0.315*4.0
-    PV Lehe - 2: 0.35*4.0
-    PV Lehe - 3: 0.322*4.0
-    PV Lehe - 4: 0.315*4.0
-    PV Leherheide - 0: 0.329*4.0
-    PV Leherheide - 1: 0.2*4.0
-    PV Mitte - 0: 0.236*4.0
-    PV Mitte - 1: 0.229*4.0
-    PV Schiffdorferdamm: 0.093*4.0
-    PV Surheide: 0.114*4.0
-    PV Weddewarden: 0.0215*4.0
-    PV Wulsdorf - 0: 0.236*4.0
-    PV Wulsdorf - 1: 0.179*4.0
+  - 0-sgen-1-17.p_mw: 0.00715*4.0
+    0-sgen-10-35.p_mw: 0.594*4.0
+    0-sgen-11-37.p_mw: 0.594*4.0
+    0-sgen-13-40.p_mw: 0.594*4.0
+    0-sgen-15-45.p_mw: 0.293*4.0
+    0-sgen-16-50.p_mw: 0.315*4.0
+    0-sgen-17-53.p_mw: 0.35*4.0
+    0-sgen-19-57.p_mw: 0.322*4.0
+    0-sgen-2-20.p_mw: 0.315*4.0
+    0-sgen-20-63.p_mw: 0.329*4.0
+    0-sgen-21-65.p_mw: 0.2*4.0
+    0-sgen-22-67.p_mw: 0.236*4.0
+    0-sgen-23-71.p_mw: 0.229*4.0
+    0-sgen-24-80.p_mw: 0.093*4.0
+    0-sgen-5-25.p_mw: 0.114*4.0
+    0-sgen-6-28.p_mw: 0.0215*4.0
+    0-sgen-7-30.p_mw: 0.236*4.0
+    0-sgen-9-33.p_mw: 0.179*4.0
 - - 0*24*60*60+62*900
   - 0*24*60*60+62*900+899
-  - PV Fischereihafen: 0.00697*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.578*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.578*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.578*4.0
-    PV Lehe - 0: 0.286*4.0
-    PV Lehe - 1: 0.307*4.0
-    PV Lehe - 2: 0.341*4.0
-    PV Lehe - 3: 0.314*4.0
-    PV Lehe - 4: 0.307*4.0
-    PV Leherheide - 0: 0.321*4.0
-    PV Leherheide - 1: 0.195*4.0
-    PV Mitte - 0: 0.23*4.0
-    PV Mitte - 1: 0.223*4.0
-    PV Schiffdorferdamm: 0.0906*4.0
-    PV Surheide: 0.112*4.0
-    PV Weddewarden: 0.0209*4.0
-    PV Wulsdorf - 0: 0.23*4.0
-    PV Wulsdorf - 1: 0.174*4.0
+  - 0-sgen-1-17.p_mw: 0.00697*4.0
+    0-sgen-10-35.p_mw: 0.578*4.0
+    0-sgen-11-37.p_mw: 0.578*4.0
+    0-sgen-13-40.p_mw: 0.578*4.0
+    0-sgen-15-45.p_mw: 0.286*4.0
+    0-sgen-16-50.p_mw: 0.307*4.0
+    0-sgen-17-53.p_mw: 0.341*4.0
+    0-sgen-19-57.p_mw: 0.314*4.0
+    0-sgen-2-20.p_mw: 0.307*4.0
+    0-sgen-20-63.p_mw: 0.321*4.0
+    0-sgen-21-65.p_mw: 0.195*4.0
+    0-sgen-22-67.p_mw: 0.23*4.0
+    0-sgen-23-71.p_mw: 0.223*4.0
+    0-sgen-24-80.p_mw: 0.0906*4.0
+    0-sgen-5-25.p_mw: 0.112*4.0
+    0-sgen-6-28.p_mw: 0.0209*4.0
+    0-sgen-7-30.p_mw: 0.23*4.0
+    0-sgen-9-33.p_mw: 0.174*4.0
 - - 0*24*60*60+63*900
   - 0*24*60*60+63*900+899
-  - PV Fischereihafen: 0.00684*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.568*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.568*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.568*4.0
-    PV Lehe - 0: 0.28*4.0
-    PV Lehe - 1: 0.301*4.0
-    PV Lehe - 2: 0.335*4.0
-    PV Lehe - 3: 0.308*4.0
-    PV Lehe - 4: 0.301*4.0
-    PV Leherheide - 0: 0.315*4.0
-    PV Leherheide - 1: 0.192*4.0
-    PV Mitte - 0: 0.226*4.0
-    PV Mitte - 1: 0.219*4.0
-    PV Schiffdorferdamm: 0.0889*4.0
-    PV Surheide: 0.109*4.0
-    PV Weddewarden: 0.0205*4.0
-    PV Wulsdorf - 0: 0.226*4.0
-    PV Wulsdorf - 1: 0.171*4.0
+  - 0-sgen-1-17.p_mw: 0.00684*4.0
+    0-sgen-10-35.p_mw: 0.568*4.0
+    0-sgen-11-37.p_mw: 0.568*4.0
+    0-sgen-13-40.p_mw: 0.568*4.0
+    0-sgen-15-45.p_mw: 0.28*4.0
+    0-sgen-16-50.p_mw: 0.301*4.0
+    0-sgen-17-53.p_mw: 0.335*4.0
+    0-sgen-19-57.p_mw: 0.308*4.0
+    0-sgen-2-20.p_mw: 0.301*4.0
+    0-sgen-20-63.p_mw: 0.315*4.0
+    0-sgen-21-65.p_mw: 0.192*4.0
+    0-sgen-22-67.p_mw: 0.226*4.0
+    0-sgen-23-71.p_mw: 0.219*4.0
+    0-sgen-24-80.p_mw: 0.0889*4.0
+    0-sgen-5-25.p_mw: 0.109*4.0
+    0-sgen-6-28.p_mw: 0.0205*4.0
+    0-sgen-7-30.p_mw: 0.226*4.0
+    0-sgen-9-33.p_mw: 0.171*4.0
 - - 0*24*60*60+64*900
   - 0*24*60*60+64*900+899
-  - PV Fischereihafen: 0.00668*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.555*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.555*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.555*4.0
-    PV Lehe - 0: 0.274*4.0
-    PV Lehe - 1: 0.294*4.0
-    PV Lehe - 2: 0.327*4.0
-    PV Lehe - 3: 0.301*4.0
-    PV Lehe - 4: 0.294*4.0
-    PV Leherheide - 0: 0.307*4.0
-    PV Leherheide - 1: 0.187*4.0
-    PV Mitte - 0: 0.221*4.0
-    PV Mitte - 1: 0.214*4.0
-    PV Schiffdorferdamm: 0.0869*4.0
-    PV Surheide: 0.107*4.0
-    PV Weddewarden: 0.02*4.0
-    PV Wulsdorf - 0: 0.221*4.0
-    PV Wulsdorf - 1: 0.167*4.0
+  - 0-sgen-1-17.p_mw: 0.00668*4.0
+    0-sgen-10-35.p_mw: 0.555*4.0
+    0-sgen-11-37.p_mw: 0.555*4.0
+    0-sgen-13-40.p_mw: 0.555*4.0
+    0-sgen-15-45.p_mw: 0.274*4.0
+    0-sgen-16-50.p_mw: 0.294*4.0
+    0-sgen-17-53.p_mw: 0.327*4.0
+    0-sgen-19-57.p_mw: 0.301*4.0
+    0-sgen-2-20.p_mw: 0.294*4.0
+    0-sgen-20-63.p_mw: 0.307*4.0
+    0-sgen-21-65.p_mw: 0.187*4.0
+    0-sgen-22-67.p_mw: 0.221*4.0
+    0-sgen-23-71.p_mw: 0.214*4.0
+    0-sgen-24-80.p_mw: 0.0869*4.0
+    0-sgen-5-25.p_mw: 0.107*4.0
+    0-sgen-6-28.p_mw: 0.02*4.0
+    0-sgen-7-30.p_mw: 0.221*4.0
+    0-sgen-9-33.p_mw: 0.167*4.0
 - - 0*24*60*60+65*900
   - 0*24*60*60+65*900+899
-  - PV Fischereihafen: 0.00629*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.522*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.522*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.522*4.0
-    PV Lehe - 0: 0.258*4.0
-    PV Lehe - 1: 0.277*4.0
-    PV Lehe - 2: 0.308*4.0
-    PV Lehe - 3: 0.283*4.0
-    PV Lehe - 4: 0.277*4.0
-    PV Leherheide - 0: 0.289*4.0
-    PV Leherheide - 1: 0.176*4.0
-    PV Mitte - 0: 0.208*4.0
-    PV Mitte - 1: 0.201*4.0
-    PV Schiffdorferdamm: 0.0818*4.0
-    PV Surheide: 0.101*4.0
-    PV Weddewarden: 0.0189*4.0
-    PV Wulsdorf - 0: 0.208*4.0
-    PV Wulsdorf - 1: 0.157*4.0
+  - 0-sgen-1-17.p_mw: 0.00629*4.0
+    0-sgen-10-35.p_mw: 0.522*4.0
+    0-sgen-11-37.p_mw: 0.522*4.0
+    0-sgen-13-40.p_mw: 0.522*4.0
+    0-sgen-15-45.p_mw: 0.258*4.0
+    0-sgen-16-50.p_mw: 0.277*4.0
+    0-sgen-17-53.p_mw: 0.308*4.0
+    0-sgen-19-57.p_mw: 0.283*4.0
+    0-sgen-2-20.p_mw: 0.277*4.0
+    0-sgen-20-63.p_mw: 0.289*4.0
+    0-sgen-21-65.p_mw: 0.176*4.0
+    0-sgen-22-67.p_mw: 0.208*4.0
+    0-sgen-23-71.p_mw: 0.201*4.0
+    0-sgen-24-80.p_mw: 0.0818*4.0
+    0-sgen-5-25.p_mw: 0.101*4.0
+    0-sgen-6-28.p_mw: 0.0189*4.0
+    0-sgen-7-30.p_mw: 0.208*4.0
+    0-sgen-9-33.p_mw: 0.157*4.0
 - - 0*24*60*60+66*900
   - 0*24*60*60+66*900+899
-  - PV Fischereihafen: 0.00612*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.508*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.508*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.508*4.0
-    PV Lehe - 0: 0.251*4.0
-    PV Lehe - 1: 0.269*4.0
-    PV Lehe - 2: 0.3*4.0
-    PV Lehe - 3: 0.276*4.0
-    PV Lehe - 4: 0.269*4.0
-    PV Leherheide - 0: 0.282*4.0
-    PV Leherheide - 1: 0.171*4.0
-    PV Mitte - 0: 0.202*4.0
-    PV Mitte - 1: 0.196*4.0
-    PV Schiffdorferdamm: 0.0796*4.0
-    PV Surheide: 0.098*4.0
-    PV Weddewarden: 0.0184*4.0
-    PV Wulsdorf - 0: 0.202*4.0
-    PV Wulsdorf - 1: 0.153*4.0
+  - 0-sgen-1-17.p_mw: 0.00612*4.0
+    0-sgen-10-35.p_mw: 0.508*4.0
+    0-sgen-11-37.p_mw: 0.508*4.0
+    0-sgen-13-40.p_mw: 0.508*4.0
+    0-sgen-15-45.p_mw: 0.251*4.0
+    0-sgen-16-50.p_mw: 0.269*4.0
+    0-sgen-17-53.p_mw: 0.3*4.0
+    0-sgen-19-57.p_mw: 0.276*4.0
+    0-sgen-2-20.p_mw: 0.269*4.0
+    0-sgen-20-63.p_mw: 0.282*4.0
+    0-sgen-21-65.p_mw: 0.171*4.0
+    0-sgen-22-67.p_mw: 0.202*4.0
+    0-sgen-23-71.p_mw: 0.196*4.0
+    0-sgen-24-80.p_mw: 0.0796*4.0
+    0-sgen-5-25.p_mw: 0.098*4.0
+    0-sgen-6-28.p_mw: 0.0184*4.0
+    0-sgen-7-30.p_mw: 0.202*4.0
+    0-sgen-9-33.p_mw: 0.153*4.0
 - - 0*24*60*60+67*900
   - 0*24*60*60+67*900+899
-  - PV Fischereihafen: 0.00578*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.48*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.48*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.48*4.0
-    PV Lehe - 0: 0.237*4.0
-    PV Lehe - 1: 0.254*4.0
-    PV Lehe - 2: 0.283*4.0
-    PV Lehe - 3: 0.26*4.0
-    PV Lehe - 4: 0.254*4.0
-    PV Leherheide - 0: 0.266*4.0
-    PV Leherheide - 1: 0.162*4.0
-    PV Mitte - 0: 0.191*4.0
-    PV Mitte - 1: 0.185*4.0
-    PV Schiffdorferdamm: 0.0751*4.0
-    PV Surheide: 0.0925*4.0
-    PV Weddewarden: 0.0173*4.0
-    PV Wulsdorf - 0: 0.191*4.0
-    PV Wulsdorf - 1: 0.144*4.0
+  - 0-sgen-1-17.p_mw: 0.00578*4.0
+    0-sgen-10-35.p_mw: 0.48*4.0
+    0-sgen-11-37.p_mw: 0.48*4.0
+    0-sgen-13-40.p_mw: 0.48*4.0
+    0-sgen-15-45.p_mw: 0.237*4.0
+    0-sgen-16-50.p_mw: 0.254*4.0
+    0-sgen-17-53.p_mw: 0.283*4.0
+    0-sgen-19-57.p_mw: 0.26*4.0
+    0-sgen-2-20.p_mw: 0.254*4.0
+    0-sgen-20-63.p_mw: 0.266*4.0
+    0-sgen-21-65.p_mw: 0.162*4.0
+    0-sgen-22-67.p_mw: 0.191*4.0
+    0-sgen-23-71.p_mw: 0.185*4.0
+    0-sgen-24-80.p_mw: 0.0751*4.0
+    0-sgen-5-25.p_mw: 0.0925*4.0
+    0-sgen-6-28.p_mw: 0.0173*4.0
+    0-sgen-7-30.p_mw: 0.191*4.0
+    0-sgen-9-33.p_mw: 0.144*4.0
 - - 0*24*60*60+68*900
   - 0*24*60*60+68*900+899
-  - PV Fischereihafen: 0.00528*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.438*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.438*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.438*4.0
-    PV Lehe - 0: 0.217*4.0
-    PV Lehe - 1: 0.232*4.0
-    PV Lehe - 2: 0.259*4.0
-    PV Lehe - 3: 0.238*4.0
-    PV Lehe - 4: 0.232*4.0
-    PV Leherheide - 0: 0.243*4.0
-    PV Leherheide - 1: 0.148*4.0
-    PV Mitte - 0: 0.174*4.0
-    PV Mitte - 1: 0.169*4.0
-    PV Schiffdorferdamm: 0.0687*4.0
-    PV Surheide: 0.0845*4.0
-    PV Weddewarden: 0.0158*4.0
-    PV Wulsdorf - 0: 0.174*4.0
-    PV Wulsdorf - 1: 0.132*4.0
+  - 0-sgen-1-17.p_mw: 0.00528*4.0
+    0-sgen-10-35.p_mw: 0.438*4.0
+    0-sgen-11-37.p_mw: 0.438*4.0
+    0-sgen-13-40.p_mw: 0.438*4.0
+    0-sgen-15-45.p_mw: 0.217*4.0
+    0-sgen-16-50.p_mw: 0.232*4.0
+    0-sgen-17-53.p_mw: 0.259*4.0
+    0-sgen-19-57.p_mw: 0.238*4.0
+    0-sgen-2-20.p_mw: 0.232*4.0
+    0-sgen-20-63.p_mw: 0.243*4.0
+    0-sgen-21-65.p_mw: 0.148*4.0
+    0-sgen-22-67.p_mw: 0.174*4.0
+    0-sgen-23-71.p_mw: 0.169*4.0
+    0-sgen-24-80.p_mw: 0.0687*4.0
+    0-sgen-5-25.p_mw: 0.0845*4.0
+    0-sgen-6-28.p_mw: 0.0158*4.0
+    0-sgen-7-30.p_mw: 0.174*4.0
+    0-sgen-9-33.p_mw: 0.132*4.0
 - - 0*24*60*60+69*900
   - 0*24*60*60+69*900+899
-  - PV Fischereihafen: 0.00487*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.404*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.404*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.404*4.0
-    PV Lehe - 0: 0.2*4.0
-    PV Lehe - 1: 0.214*4.0
-    PV Lehe - 2: 0.239*4.0
-    PV Lehe - 3: 0.219*4.0
-    PV Lehe - 4: 0.214*4.0
-    PV Leherheide - 0: 0.224*4.0
-    PV Leherheide - 1: 0.136*4.0
-    PV Mitte - 0: 0.161*4.0
-    PV Mitte - 1: 0.156*4.0
-    PV Schiffdorferdamm: 0.0633*4.0
-    PV Surheide: 0.0779*4.0
-    PV Weddewarden: 0.0146*4.0
-    PV Wulsdorf - 0: 0.161*4.0
-    PV Wulsdorf - 1: 0.122*4.0
+  - 0-sgen-1-17.p_mw: 0.00487*4.0
+    0-sgen-10-35.p_mw: 0.404*4.0
+    0-sgen-11-37.p_mw: 0.404*4.0
+    0-sgen-13-40.p_mw: 0.404*4.0
+    0-sgen-15-45.p_mw: 0.2*4.0
+    0-sgen-16-50.p_mw: 0.214*4.0
+    0-sgen-17-53.p_mw: 0.239*4.0
+    0-sgen-19-57.p_mw: 0.219*4.0
+    0-sgen-2-20.p_mw: 0.214*4.0
+    0-sgen-20-63.p_mw: 0.224*4.0
+    0-sgen-21-65.p_mw: 0.136*4.0
+    0-sgen-22-67.p_mw: 0.161*4.0
+    0-sgen-23-71.p_mw: 0.156*4.0
+    0-sgen-24-80.p_mw: 0.0633*4.0
+    0-sgen-5-25.p_mw: 0.0779*4.0
+    0-sgen-6-28.p_mw: 0.0146*4.0
+    0-sgen-7-30.p_mw: 0.161*4.0
+    0-sgen-9-33.p_mw: 0.122*4.0
 - - 0*24*60*60+70*900
   - 0*24*60*60+70*900+899
-  - PV Fischereihafen: 0.0045*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.373*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.373*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.373*4.0
-    PV Lehe - 0: 0.184*4.0
-    PV Lehe - 1: 0.198*4.0
-    PV Lehe - 2: 0.22*4.0
-    PV Lehe - 3: 0.202*4.0
-    PV Lehe - 4: 0.198*4.0
-    PV Leherheide - 0: 0.207*4.0
-    PV Leherheide - 1: 0.126*4.0
-    PV Mitte - 0: 0.148*4.0
-    PV Mitte - 1: 0.144*4.0
-    PV Schiffdorferdamm: 0.0585*4.0
-    PV Surheide: 0.072*4.0
-    PV Weddewarden: 0.0135*4.0
-    PV Wulsdorf - 0: 0.148*4.0
-    PV Wulsdorf - 1: 0.112*4.0
+  - 0-sgen-1-17.p_mw: 0.0045*4.0
+    0-sgen-10-35.p_mw: 0.373*4.0
+    0-sgen-11-37.p_mw: 0.373*4.0
+    0-sgen-13-40.p_mw: 0.373*4.0
+    0-sgen-15-45.p_mw: 0.184*4.0
+    0-sgen-16-50.p_mw: 0.198*4.0
+    0-sgen-17-53.p_mw: 0.22*4.0
+    0-sgen-19-57.p_mw: 0.202*4.0
+    0-sgen-2-20.p_mw: 0.198*4.0
+    0-sgen-20-63.p_mw: 0.207*4.0
+    0-sgen-21-65.p_mw: 0.126*4.0
+    0-sgen-22-67.p_mw: 0.148*4.0
+    0-sgen-23-71.p_mw: 0.144*4.0
+    0-sgen-24-80.p_mw: 0.0585*4.0
+    0-sgen-5-25.p_mw: 0.072*4.0
+    0-sgen-6-28.p_mw: 0.0135*4.0
+    0-sgen-7-30.p_mw: 0.148*4.0
+    0-sgen-9-33.p_mw: 0.112*4.0
 - - 0*24*60*60+71*900
   - 0*24*60*60+71*900+899
-  - PV Fischereihafen: 0.004*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.332*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.332*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.332*4.0
-    PV Lehe - 0: 0.164*4.0
-    PV Lehe - 1: 0.176*4.0
-    PV Lehe - 2: 0.196*4.0
-    PV Lehe - 3: 0.18*4.0
-    PV Lehe - 4: 0.176*4.0
-    PV Leherheide - 0: 0.184*4.0
-    PV Leherheide - 1: 0.112*4.0
-    PV Mitte - 0: 0.132*4.0
-    PV Mitte - 1: 0.128*4.0
-    PV Schiffdorferdamm: 0.052*4.0
-    PV Surheide: 0.064*4.0
-    PV Weddewarden: 0.012*4.0
-    PV Wulsdorf - 0: 0.132*4.0
-    PV Wulsdorf - 1: 0.1*4.0
+  - 0-sgen-1-17.p_mw: 0.004*4.0
+    0-sgen-10-35.p_mw: 0.332*4.0
+    0-sgen-11-37.p_mw: 0.332*4.0
+    0-sgen-13-40.p_mw: 0.332*4.0
+    0-sgen-15-45.p_mw: 0.164*4.0
+    0-sgen-16-50.p_mw: 0.176*4.0
+    0-sgen-17-53.p_mw: 0.196*4.0
+    0-sgen-19-57.p_mw: 0.18*4.0
+    0-sgen-2-20.p_mw: 0.176*4.0
+    0-sgen-20-63.p_mw: 0.184*4.0
+    0-sgen-21-65.p_mw: 0.112*4.0
+    0-sgen-22-67.p_mw: 0.132*4.0
+    0-sgen-23-71.p_mw: 0.128*4.0
+    0-sgen-24-80.p_mw: 0.052*4.0
+    0-sgen-5-25.p_mw: 0.064*4.0
+    0-sgen-6-28.p_mw: 0.012*4.0
+    0-sgen-7-30.p_mw: 0.132*4.0
+    0-sgen-9-33.p_mw: 0.1*4.0
 - - 0*24*60*60+72*900
   - 0*24*60*60+72*900+899
-  - PV Fischereihafen: 0.00349*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.29*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.29*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.29*4.0
-    PV Lehe - 0: 0.143*4.0
-    PV Lehe - 1: 0.153*4.0
-    PV Lehe - 2: 0.171*4.0
-    PV Lehe - 3: 0.157*4.0
-    PV Lehe - 4: 0.153*4.0
-    PV Leherheide - 0: 0.16*4.0
-    PV Leherheide - 1: 0.0977*4.0
-    PV Mitte - 0: 0.115*4.0
-    PV Mitte - 1: 0.112*4.0
-    PV Schiffdorferdamm: 0.0453*4.0
-    PV Surheide: 0.0558*4.0
-    PV Weddewarden: 0.0105*4.0
-    PV Wulsdorf - 0: 0.115*4.0
-    PV Wulsdorf - 1: 0.0872*4.0
+  - 0-sgen-1-17.p_mw: 0.00349*4.0
+    0-sgen-10-35.p_mw: 0.29*4.0
+    0-sgen-11-37.p_mw: 0.29*4.0
+    0-sgen-13-40.p_mw: 0.29*4.0
+    0-sgen-15-45.p_mw: 0.143*4.0
+    0-sgen-16-50.p_mw: 0.153*4.0
+    0-sgen-17-53.p_mw: 0.171*4.0
+    0-sgen-19-57.p_mw: 0.157*4.0
+    0-sgen-2-20.p_mw: 0.153*4.0
+    0-sgen-20-63.p_mw: 0.16*4.0
+    0-sgen-21-65.p_mw: 0.0977*4.0
+    0-sgen-22-67.p_mw: 0.115*4.0
+    0-sgen-23-71.p_mw: 0.112*4.0
+    0-sgen-24-80.p_mw: 0.0453*4.0
+    0-sgen-5-25.p_mw: 0.0558*4.0
+    0-sgen-6-28.p_mw: 0.0105*4.0
+    0-sgen-7-30.p_mw: 0.115*4.0
+    0-sgen-9-33.p_mw: 0.0872*4.0
 - - 0*24*60*60+73*900
   - 0*24*60*60+73*900+899
-  - PV Fischereihafen: 0.00301*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.249*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.249*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.249*4.0
-    PV Lehe - 0: 0.123*4.0
-    PV Lehe - 1: 0.132*4.0
-    PV Lehe - 2: 0.147*4.0
-    PV Lehe - 3: 0.135*4.0
-    PV Lehe - 4: 0.132*4.0
-    PV Leherheide - 0: 0.138*4.0
-    PV Leherheide - 1: 0.0842*4.0
-    PV Mitte - 0: 0.0992*4.0
-    PV Mitte - 1: 0.0962*4.0
-    PV Schiffdorferdamm: 0.0391*4.0
-    PV Surheide: 0.0481*4.0
-    PV Weddewarden: 0.00902*4.0
-    PV Wulsdorf - 0: 0.0992*4.0
-    PV Wulsdorf - 1: 0.0751*4.0
+  - 0-sgen-1-17.p_mw: 0.00301*4.0
+    0-sgen-10-35.p_mw: 0.249*4.0
+    0-sgen-11-37.p_mw: 0.249*4.0
+    0-sgen-13-40.p_mw: 0.249*4.0
+    0-sgen-15-45.p_mw: 0.123*4.0
+    0-sgen-16-50.p_mw: 0.132*4.0
+    0-sgen-17-53.p_mw: 0.147*4.0
+    0-sgen-19-57.p_mw: 0.135*4.0
+    0-sgen-2-20.p_mw: 0.132*4.0
+    0-sgen-20-63.p_mw: 0.138*4.0
+    0-sgen-21-65.p_mw: 0.0842*4.0
+    0-sgen-22-67.p_mw: 0.0992*4.0
+    0-sgen-23-71.p_mw: 0.0962*4.0
+    0-sgen-24-80.p_mw: 0.0391*4.0
+    0-sgen-5-25.p_mw: 0.0481*4.0
+    0-sgen-6-28.p_mw: 0.00902*4.0
+    0-sgen-7-30.p_mw: 0.0992*4.0
+    0-sgen-9-33.p_mw: 0.0751*4.0
 - - 0*24*60*60+74*900
   - 0*24*60*60+74*900+899
-  - PV Fischereihafen: 0.0026*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.216*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.216*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.216*4.0
-    PV Lehe - 0: 0.107*4.0
-    PV Lehe - 1: 0.114*4.0
-    PV Lehe - 2: 0.127*4.0
-    PV Lehe - 3: 0.117*4.0
-    PV Lehe - 4: 0.114*4.0
-    PV Leherheide - 0: 0.12*4.0
-    PV Leherheide - 1: 0.0728*4.0
-    PV Mitte - 0: 0.0858*4.0
-    PV Mitte - 1: 0.0832*4.0
-    PV Schiffdorferdamm: 0.0338*4.0
-    PV Surheide: 0.0416*4.0
-    PV Weddewarden: 0.0078*4.0
-    PV Wulsdorf - 0: 0.0858*4.0
-    PV Wulsdorf - 1: 0.065*4.0
+  - 0-sgen-1-17.p_mw: 0.0026*4.0
+    0-sgen-10-35.p_mw: 0.216*4.0
+    0-sgen-11-37.p_mw: 0.216*4.0
+    0-sgen-13-40.p_mw: 0.216*4.0
+    0-sgen-15-45.p_mw: 0.107*4.0
+    0-sgen-16-50.p_mw: 0.114*4.0
+    0-sgen-17-53.p_mw: 0.127*4.0
+    0-sgen-19-57.p_mw: 0.117*4.0
+    0-sgen-2-20.p_mw: 0.114*4.0
+    0-sgen-20-63.p_mw: 0.12*4.0
+    0-sgen-21-65.p_mw: 0.0728*4.0
+    0-sgen-22-67.p_mw: 0.0858*4.0
+    0-sgen-23-71.p_mw: 0.0832*4.0
+    0-sgen-24-80.p_mw: 0.0338*4.0
+    0-sgen-5-25.p_mw: 0.0416*4.0
+    0-sgen-6-28.p_mw: 0.0078*4.0
+    0-sgen-7-30.p_mw: 0.0858*4.0
+    0-sgen-9-33.p_mw: 0.065*4.0
 - - 0*24*60*60+75*900
   - 0*24*60*60+75*900+899
-  - PV Fischereihafen: 0.00213*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.176*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.176*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.176*4.0
-    PV Lehe - 0: 0.0872*4.0
-    PV Lehe - 1: 0.0935*4.0
-    PV Lehe - 2: 0.104*4.0
-    PV Lehe - 3: 0.0957*4.0
-    PV Lehe - 4: 0.0935*4.0
-    PV Leherheide - 0: 0.0978*4.0
-    PV Leherheide - 1: 0.0595*4.0
-    PV Mitte - 0: 0.0702*4.0
-    PV Mitte - 1: 0.068*4.0
-    PV Schiffdorferdamm: 0.0276*4.0
-    PV Surheide: 0.034*4.0
-    PV Weddewarden: 0.00638*4.0
-    PV Wulsdorf - 0: 0.0702*4.0
-    PV Wulsdorf - 1: 0.0532*4.0
+  - 0-sgen-1-17.p_mw: 0.00213*4.0
+    0-sgen-10-35.p_mw: 0.176*4.0
+    0-sgen-11-37.p_mw: 0.176*4.0
+    0-sgen-13-40.p_mw: 0.176*4.0
+    0-sgen-15-45.p_mw: 0.0872*4.0
+    0-sgen-16-50.p_mw: 0.0935*4.0
+    0-sgen-17-53.p_mw: 0.104*4.0
+    0-sgen-19-57.p_mw: 0.0957*4.0
+    0-sgen-2-20.p_mw: 0.0935*4.0
+    0-sgen-20-63.p_mw: 0.0978*4.0
+    0-sgen-21-65.p_mw: 0.0595*4.0
+    0-sgen-22-67.p_mw: 0.0702*4.0
+    0-sgen-23-71.p_mw: 0.068*4.0
+    0-sgen-24-80.p_mw: 0.0276*4.0
+    0-sgen-5-25.p_mw: 0.034*4.0
+    0-sgen-6-28.p_mw: 0.00638*4.0
+    0-sgen-7-30.p_mw: 0.0702*4.0
+    0-sgen-9-33.p_mw: 0.0532*4.0
 - - 0*24*60*60+76*900
   - 0*24*60*60+76*900+899
-  - PV Fischereihafen: 0.00171*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.142*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.142*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.142*4.0
-    PV Lehe - 0: 0.0701*4.0
-    PV Lehe - 1: 0.0752*4.0
-    PV Lehe - 2: 0.0838*4.0
-    PV Lehe - 3: 0.0769*4.0
-    PV Lehe - 4: 0.0752*4.0
-    PV Leherheide - 0: 0.0786*4.0
-    PV Leherheide - 1: 0.0479*4.0
-    PV Mitte - 0: 0.0564*4.0
-    PV Mitte - 1: 0.0547*4.0
-    PV Schiffdorferdamm: 0.0222*4.0
-    PV Surheide: 0.0273*4.0
-    PV Weddewarden: 0.00513*4.0
-    PV Wulsdorf - 0: 0.0564*4.0
-    PV Wulsdorf - 1: 0.0427*4.0
+  - 0-sgen-1-17.p_mw: 0.00171*4.0
+    0-sgen-10-35.p_mw: 0.142*4.0
+    0-sgen-11-37.p_mw: 0.142*4.0
+    0-sgen-13-40.p_mw: 0.142*4.0
+    0-sgen-15-45.p_mw: 0.0701*4.0
+    0-sgen-16-50.p_mw: 0.0752*4.0
+    0-sgen-17-53.p_mw: 0.0838*4.0
+    0-sgen-19-57.p_mw: 0.0769*4.0
+    0-sgen-2-20.p_mw: 0.0752*4.0
+    0-sgen-20-63.p_mw: 0.0786*4.0
+    0-sgen-21-65.p_mw: 0.0479*4.0
+    0-sgen-22-67.p_mw: 0.0564*4.0
+    0-sgen-23-71.p_mw: 0.0547*4.0
+    0-sgen-24-80.p_mw: 0.0222*4.0
+    0-sgen-5-25.p_mw: 0.0273*4.0
+    0-sgen-6-28.p_mw: 0.00513*4.0
+    0-sgen-7-30.p_mw: 0.0564*4.0
+    0-sgen-9-33.p_mw: 0.0427*4.0
 - - 0*24*60*60+77*900
   - 0*24*60*60+77*900+899
-  - PV Fischereihafen: 0.00134*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.111*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.111*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.111*4.0
-    PV Lehe - 0: 0.0548*4.0
-    PV Lehe - 1: 0.0588*4.0
-    PV Lehe - 2: 0.0655*4.0
-    PV Lehe - 3: 0.0601*4.0
-    PV Lehe - 4: 0.0588*4.0
-    PV Leherheide - 0: 0.0615*4.0
-    PV Leherheide - 1: 0.0374*4.0
-    PV Mitte - 0: 0.0441*4.0
-    PV Mitte - 1: 0.0428*4.0
-    PV Schiffdorferdamm: 0.0174*4.0
-    PV Surheide: 0.0214*4.0
-    PV Weddewarden: 0.00401*4.0
-    PV Wulsdorf - 0: 0.0441*4.0
-    PV Wulsdorf - 1: 0.0334*4.0
+  - 0-sgen-1-17.p_mw: 0.00134*4.0
+    0-sgen-10-35.p_mw: 0.111*4.0
+    0-sgen-11-37.p_mw: 0.111*4.0
+    0-sgen-13-40.p_mw: 0.111*4.0
+    0-sgen-15-45.p_mw: 0.0548*4.0
+    0-sgen-16-50.p_mw: 0.0588*4.0
+    0-sgen-17-53.p_mw: 0.0655*4.0
+    0-sgen-19-57.p_mw: 0.0601*4.0
+    0-sgen-2-20.p_mw: 0.0588*4.0
+    0-sgen-20-63.p_mw: 0.0615*4.0
+    0-sgen-21-65.p_mw: 0.0374*4.0
+    0-sgen-22-67.p_mw: 0.0441*4.0
+    0-sgen-23-71.p_mw: 0.0428*4.0
+    0-sgen-24-80.p_mw: 0.0174*4.0
+    0-sgen-5-25.p_mw: 0.0214*4.0
+    0-sgen-6-28.p_mw: 0.00401*4.0
+    0-sgen-7-30.p_mw: 0.0441*4.0
+    0-sgen-9-33.p_mw: 0.0334*4.0
 - - 0*24*60*60+78*900
   - 0*24*60*60+78*900+899
-  - PV Fischereihafen: 0.00102*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0849*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0849*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0849*4.0
-    PV Lehe - 0: 0.0419*4.0
-    PV Lehe - 1: 0.045*4.0
-    PV Lehe - 2: 0.0501*4.0
-    PV Lehe - 3: 0.046*4.0
-    PV Lehe - 4: 0.045*4.0
-    PV Leherheide - 0: 0.047*4.0
-    PV Leherheide - 1: 0.0286*4.0
-    PV Mitte - 0: 0.0337*4.0
-    PV Mitte - 1: 0.0327*4.0
-    PV Schiffdorferdamm: 0.0133*4.0
-    PV Surheide: 0.0164*4.0
-    PV Weddewarden: 0.00307*4.0
-    PV Wulsdorf - 0: 0.0337*4.0
-    PV Wulsdorf - 1: 0.0256*4.0
+  - 0-sgen-1-17.p_mw: 0.00102*4.0
+    0-sgen-10-35.p_mw: 0.0849*4.0
+    0-sgen-11-37.p_mw: 0.0849*4.0
+    0-sgen-13-40.p_mw: 0.0849*4.0
+    0-sgen-15-45.p_mw: 0.0419*4.0
+    0-sgen-16-50.p_mw: 0.045*4.0
+    0-sgen-17-53.p_mw: 0.0501*4.0
+    0-sgen-19-57.p_mw: 0.046*4.0
+    0-sgen-2-20.p_mw: 0.045*4.0
+    0-sgen-20-63.p_mw: 0.047*4.0
+    0-sgen-21-65.p_mw: 0.0286*4.0
+    0-sgen-22-67.p_mw: 0.0337*4.0
+    0-sgen-23-71.p_mw: 0.0327*4.0
+    0-sgen-24-80.p_mw: 0.0133*4.0
+    0-sgen-5-25.p_mw: 0.0164*4.0
+    0-sgen-6-28.p_mw: 0.00307*4.0
+    0-sgen-7-30.p_mw: 0.0337*4.0
+    0-sgen-9-33.p_mw: 0.0256*4.0
 - - 0*24*60*60+79*900
   - 0*24*60*60+79*900+899
-  - PV Fischereihafen: 0.000739*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0613*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0613*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0613*4.0
-    PV Lehe - 0: 0.0303*4.0
-    PV Lehe - 1: 0.0325*4.0
-    PV Lehe - 2: 0.0362*4.0
-    PV Lehe - 3: 0.0333*4.0
-    PV Lehe - 4: 0.0325*4.0
-    PV Leherheide - 0: 0.034*4.0
-    PV Leherheide - 1: 0.0207*4.0
-    PV Mitte - 0: 0.0244*4.0
-    PV Mitte - 1: 0.0236*4.0
-    PV Schiffdorferdamm: 0.00961*4.0
-    PV Surheide: 0.0118*4.0
-    PV Weddewarden: 0.00222*4.0
-    PV Wulsdorf - 0: 0.0244*4.0
-    PV Wulsdorf - 1: 0.0185*4.0
+  - 0-sgen-1-17.p_mw: 0.000739*4.0
+    0-sgen-10-35.p_mw: 0.0613*4.0
+    0-sgen-11-37.p_mw: 0.0613*4.0
+    0-sgen-13-40.p_mw: 0.0613*4.0
+    0-sgen-15-45.p_mw: 0.0303*4.0
+    0-sgen-16-50.p_mw: 0.0325*4.0
+    0-sgen-17-53.p_mw: 0.0362*4.0
+    0-sgen-19-57.p_mw: 0.0333*4.0
+    0-sgen-2-20.p_mw: 0.0325*4.0
+    0-sgen-20-63.p_mw: 0.034*4.0
+    0-sgen-21-65.p_mw: 0.0207*4.0
+    0-sgen-22-67.p_mw: 0.0244*4.0
+    0-sgen-23-71.p_mw: 0.0236*4.0
+    0-sgen-24-80.p_mw: 0.00961*4.0
+    0-sgen-5-25.p_mw: 0.0118*4.0
+    0-sgen-6-28.p_mw: 0.00222*4.0
+    0-sgen-7-30.p_mw: 0.0244*4.0
+    0-sgen-9-33.p_mw: 0.0185*4.0
 - - 0*24*60*60+80*900
   - 0*24*60*60+80*900+899
-  - PV Fischereihafen: 0.000563*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0468*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0468*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0468*4.0
-    PV Lehe - 0: 0.0231*4.0
-    PV Lehe - 1: 0.0248*4.0
-    PV Lehe - 2: 0.0276*4.0
-    PV Lehe - 3: 0.0254*4.0
-    PV Lehe - 4: 0.0248*4.0
-    PV Leherheide - 0: 0.0259*4.0
-    PV Leherheide - 1: 0.0158*4.0
-    PV Mitte - 0: 0.0186*4.0
-    PV Mitte - 1: 0.018*4.0
-    PV Schiffdorferdamm: 0.00733*4.0
-    PV Surheide: 0.00902*4.0
-    PV Weddewarden: 0.00169*4.0
-    PV Wulsdorf - 0: 0.0186*4.0
-    PV Wulsdorf - 1: 0.0141*4.0
+  - 0-sgen-1-17.p_mw: 0.000563*4.0
+    0-sgen-10-35.p_mw: 0.0468*4.0
+    0-sgen-11-37.p_mw: 0.0468*4.0
+    0-sgen-13-40.p_mw: 0.0468*4.0
+    0-sgen-15-45.p_mw: 0.0231*4.0
+    0-sgen-16-50.p_mw: 0.0248*4.0
+    0-sgen-17-53.p_mw: 0.0276*4.0
+    0-sgen-19-57.p_mw: 0.0254*4.0
+    0-sgen-2-20.p_mw: 0.0248*4.0
+    0-sgen-20-63.p_mw: 0.0259*4.0
+    0-sgen-21-65.p_mw: 0.0158*4.0
+    0-sgen-22-67.p_mw: 0.0186*4.0
+    0-sgen-23-71.p_mw: 0.018*4.0
+    0-sgen-24-80.p_mw: 0.00733*4.0
+    0-sgen-5-25.p_mw: 0.00902*4.0
+    0-sgen-6-28.p_mw: 0.00169*4.0
+    0-sgen-7-30.p_mw: 0.0186*4.0
+    0-sgen-9-33.p_mw: 0.0141*4.0
 - - 0*24*60*60+81*900
   - 0*24*60*60+81*900+899
-  - PV Fischereihafen: 0.000358*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0297*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0297*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0297*4.0
-    PV Lehe - 0: 0.0147*4.0
-    PV Lehe - 1: 0.0158*4.0
-    PV Lehe - 2: 0.0176*4.0
-    PV Lehe - 3: 0.0161*4.0
-    PV Lehe - 4: 0.0158*4.0
-    PV Leherheide - 0: 0.0165*4.0
-    PV Leherheide - 1: 0.01*4.0
-    PV Mitte - 0: 0.0118*4.0
-    PV Mitte - 1: 0.0115*4.0
-    PV Schiffdorferdamm: 0.00466*4.0
-    PV Surheide: 0.00573*4.0
-    PV Weddewarden: 0.00107*4.0
-    PV Wulsdorf - 0: 0.0118*4.0
-    PV Wulsdorf - 1: 0.00896*4.0
+  - 0-sgen-1-17.p_mw: 0.000358*4.0
+    0-sgen-10-35.p_mw: 0.0297*4.0
+    0-sgen-11-37.p_mw: 0.0297*4.0
+    0-sgen-13-40.p_mw: 0.0297*4.0
+    0-sgen-15-45.p_mw: 0.0147*4.0
+    0-sgen-16-50.p_mw: 0.0158*4.0
+    0-sgen-17-53.p_mw: 0.0176*4.0
+    0-sgen-19-57.p_mw: 0.0161*4.0
+    0-sgen-2-20.p_mw: 0.0158*4.0
+    0-sgen-20-63.p_mw: 0.0165*4.0
+    0-sgen-21-65.p_mw: 0.01*4.0
+    0-sgen-22-67.p_mw: 0.0118*4.0
+    0-sgen-23-71.p_mw: 0.0115*4.0
+    0-sgen-24-80.p_mw: 0.00466*4.0
+    0-sgen-5-25.p_mw: 0.00573*4.0
+    0-sgen-6-28.p_mw: 0.00107*4.0
+    0-sgen-7-30.p_mw: 0.0118*4.0
+    0-sgen-9-33.p_mw: 0.00896*4.0
 - - 0*24*60*60+82*900
   - 0*24*60*60+82*900+899
-  - PV Fischereihafen: 0.000221*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0184*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0184*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0184*4.0
-    PV Lehe - 0: 0.00908*4.0
-    PV Lehe - 1: 0.00974*4.0
-    PV Lehe - 2: 0.0109*4.0
-    PV Lehe - 3: 0.00996*4.0
-    PV Lehe - 4: 0.00974*4.0
-    PV Leherheide - 0: 0.0102*4.0
-    PV Leherheide - 1: 0.0062*4.0
-    PV Mitte - 0: 0.00731*4.0
-    PV Mitte - 1: 0.00709*4.0
-    PV Schiffdorferdamm: 0.00288*4.0
-    PV Surheide: 0.00354*4.0
-    PV Weddewarden: 0.000664*4.0
-    PV Wulsdorf - 0: 0.00731*4.0
-    PV Wulsdorf - 1: 0.00554*4.0
+  - 0-sgen-1-17.p_mw: 0.000221*4.0
+    0-sgen-10-35.p_mw: 0.0184*4.0
+    0-sgen-11-37.p_mw: 0.0184*4.0
+    0-sgen-13-40.p_mw: 0.0184*4.0
+    0-sgen-15-45.p_mw: 0.00908*4.0
+    0-sgen-16-50.p_mw: 0.00974*4.0
+    0-sgen-17-53.p_mw: 0.0109*4.0
+    0-sgen-19-57.p_mw: 0.00996*4.0
+    0-sgen-2-20.p_mw: 0.00974*4.0
+    0-sgen-20-63.p_mw: 0.0102*4.0
+    0-sgen-21-65.p_mw: 0.0062*4.0
+    0-sgen-22-67.p_mw: 0.00731*4.0
+    0-sgen-23-71.p_mw: 0.00709*4.0
+    0-sgen-24-80.p_mw: 0.00288*4.0
+    0-sgen-5-25.p_mw: 0.00354*4.0
+    0-sgen-6-28.p_mw: 0.000664*4.0
+    0-sgen-7-30.p_mw: 0.00731*4.0
+    0-sgen-9-33.p_mw: 0.00554*4.0
 - - 0*24*60*60+83*900
   - 0*24*60*60+83*900+899
-  - PV Fischereihafen: 0.000101*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.00836*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.00836*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.00836*4.0
-    PV Lehe - 0: 0.00413*4.0
-    PV Lehe - 1: 0.00443*4.0
-    PV Lehe - 2: 0.00494*4.0
-    PV Lehe - 3: 0.00453*4.0
-    PV Lehe - 4: 0.00443*4.0
-    PV Leherheide - 0: 0.00464*4.0
-    PV Leherheide - 1: 0.00282*4.0
-    PV Mitte - 0: 0.00333*4.0
-    PV Mitte - 1: 0.00322*4.0
-    PV Schiffdorferdamm: 0.00131*4.0
-    PV Surheide: 0.00161*4.0
-    PV Weddewarden: 0.000302*4.0
-    PV Wulsdorf - 0: 0.00333*4.0
-    PV Wulsdorf - 1: 0.00252*4.0
+  - 0-sgen-1-17.p_mw: 0.000101*4.0
+    0-sgen-10-35.p_mw: 0.00836*4.0
+    0-sgen-11-37.p_mw: 0.00836*4.0
+    0-sgen-13-40.p_mw: 0.00836*4.0
+    0-sgen-15-45.p_mw: 0.00413*4.0
+    0-sgen-16-50.p_mw: 0.00443*4.0
+    0-sgen-17-53.p_mw: 0.00494*4.0
+    0-sgen-19-57.p_mw: 0.00453*4.0
+    0-sgen-2-20.p_mw: 0.00443*4.0
+    0-sgen-20-63.p_mw: 0.00464*4.0
+    0-sgen-21-65.p_mw: 0.00282*4.0
+    0-sgen-22-67.p_mw: 0.00333*4.0
+    0-sgen-23-71.p_mw: 0.00322*4.0
+    0-sgen-24-80.p_mw: 0.00131*4.0
+    0-sgen-5-25.p_mw: 0.00161*4.0
+    0-sgen-6-28.p_mw: 0.000302*4.0
+    0-sgen-7-30.p_mw: 0.00333*4.0
+    0-sgen-9-33.p_mw: 0.00252*4.0
 - - 0*24*60*60+84*900
   - 0*24*60*60+84*900+899
-  - PV Fischereihafen: 2.72e-05*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.00227*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.00227*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.00227*4.0
-    PV Lehe - 0: 0.00112*4.0
-    PV Lehe - 1: 0.0012*4.0
-    PV Lehe - 2: 0.00134*4.0
-    PV Lehe - 3: 0.00123*4.0
-    PV Lehe - 4: 0.0012*4.0
-    PV Leherheide - 0: 0.00126*4.0
-    PV Leherheide - 1: 0.000766*4.0
-    PV Mitte - 0: 0.000903*4.0
-    PV Mitte - 1: 0.000876*4.0
-    PV Schiffdorferdamm: 0.000356*4.0
-    PV Surheide: 0.000438*4.0
-    PV Weddewarden: 8.2e-05*4.0
-    PV Wulsdorf - 0: 0.000903*4.0
-    PV Wulsdorf - 1: 0.000684*4.0
+  - 0-sgen-1-17.p_mw: 2.72e-05*4.0
+    0-sgen-10-35.p_mw: 0.00227*4.0
+    0-sgen-11-37.p_mw: 0.00227*4.0
+    0-sgen-13-40.p_mw: 0.00227*4.0
+    0-sgen-15-45.p_mw: 0.00112*4.0
+    0-sgen-16-50.p_mw: 0.0012*4.0
+    0-sgen-17-53.p_mw: 0.00134*4.0
+    0-sgen-19-57.p_mw: 0.00123*4.0
+    0-sgen-2-20.p_mw: 0.0012*4.0
+    0-sgen-20-63.p_mw: 0.00126*4.0
+    0-sgen-21-65.p_mw: 0.000766*4.0
+    0-sgen-22-67.p_mw: 0.000903*4.0
+    0-sgen-23-71.p_mw: 0.000876*4.0
+    0-sgen-24-80.p_mw: 0.000356*4.0
+    0-sgen-5-25.p_mw: 0.000438*4.0
+    0-sgen-6-28.p_mw: 8.2e-05*4.0
+    0-sgen-7-30.p_mw: 0.000903*4.0
+    0-sgen-9-33.p_mw: 0.000684*4.0
 - - 0*24*60*60+85*900
   - 0*24*60*60+85*900+899
-  - PV Fischereihafen: 2.45e-06*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.000206*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.000206*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.000206*4.0
-    PV Lehe - 0: 0.000102*4.0
-    PV Lehe - 1: 0.000109*4.0
-    PV Lehe - 2: 0.000122*4.0
-    PV Lehe - 3: 0.000112*4.0
-    PV Lehe - 4: 0.000109*4.0
-    PV Leherheide - 0: 0.000114*4.0
-    PV Leherheide - 1: 6.96e-05*4.0
-    PV Mitte - 0: 8.21e-05*4.0
-    PV Mitte - 1: 7.95e-05*4.0
-    PV Schiffdorferdamm: 3.23e-05*4.0
-    PV Surheide: 3.97e-05*4.0
-    PV Weddewarden: 7.45e-06*4.0
-    PV Wulsdorf - 0: 8.21e-05*4.0
-    PV Wulsdorf - 1: 6.22e-05*4.0
+  - 0-sgen-1-17.p_mw: 2.45e-06*4.0
+    0-sgen-10-35.p_mw: 0.000206*4.0
+    0-sgen-11-37.p_mw: 0.000206*4.0
+    0-sgen-13-40.p_mw: 0.000206*4.0
+    0-sgen-15-45.p_mw: 0.000102*4.0
+    0-sgen-16-50.p_mw: 0.000109*4.0
+    0-sgen-17-53.p_mw: 0.000122*4.0
+    0-sgen-19-57.p_mw: 0.000112*4.0
+    0-sgen-2-20.p_mw: 0.000109*4.0
+    0-sgen-20-63.p_mw: 0.000114*4.0
+    0-sgen-21-65.p_mw: 6.96e-05*4.0
+    0-sgen-22-67.p_mw: 8.21e-05*4.0
+    0-sgen-23-71.p_mw: 7.95e-05*4.0
+    0-sgen-24-80.p_mw: 3.23e-05*4.0
+    0-sgen-5-25.p_mw: 3.97e-05*4.0
+    0-sgen-6-28.p_mw: 7.45e-06*4.0
+    0-sgen-7-30.p_mw: 8.21e-05*4.0
+    0-sgen-9-33.p_mw: 6.22e-05*4.0
 - - 0*24*60*60+86*900
   - 0*24*60*60+86*900+899
-  - PV Fischereihafen: 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0*4.0
-    PV Lehe - 0: 0.0*4.0
-    PV Lehe - 1: 0.0*4.0
-    PV Lehe - 2: 0.0*4.0
-    PV Lehe - 3: 0.0*4.0
-    PV Lehe - 4: 0.0*4.0
-    PV Leherheide - 0: 0.0*4.0
-    PV Leherheide - 1: 0.0*4.0
-    PV Mitte - 0: 0.0*4.0
-    PV Mitte - 1: 0.0*4.0
-    PV Schiffdorferdamm: 0.0*4.0
-    PV Surheide: 0.0*4.0
-    PV Weddewarden: 0.0*4.0
-    PV Wulsdorf - 0: 0.0*4.0
-    PV Wulsdorf - 1: 0.0*4.0
+  - 0-sgen-1-17.p_mw: 0.0*4.0
+    0-sgen-10-35.p_mw: 0.0*4.0
+    0-sgen-11-37.p_mw: 0.0*4.0
+    0-sgen-13-40.p_mw: 0.0*4.0
+    0-sgen-15-45.p_mw: 0.0*4.0
+    0-sgen-16-50.p_mw: 0.0*4.0
+    0-sgen-17-53.p_mw: 0.0*4.0
+    0-sgen-19-57.p_mw: 0.0*4.0
+    0-sgen-2-20.p_mw: 0.0*4.0
+    0-sgen-20-63.p_mw: 0.0*4.0
+    0-sgen-21-65.p_mw: 0.0*4.0
+    0-sgen-22-67.p_mw: 0.0*4.0
+    0-sgen-23-71.p_mw: 0.0*4.0
+    0-sgen-24-80.p_mw: 0.0*4.0
+    0-sgen-5-25.p_mw: 0.0*4.0
+    0-sgen-6-28.p_mw: 0.0*4.0
+    0-sgen-7-30.p_mw: 0.0*4.0
+    0-sgen-9-33.p_mw: 0.0*4.0
 - - 0*24*60*60+87*900
   - 0*24*60*60+87*900+899
-  - PV Fischereihafen: 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0*4.0
-    PV Lehe - 0: 0.0*4.0
-    PV Lehe - 1: 0.0*4.0
-    PV Lehe - 2: 0.0*4.0
-    PV Lehe - 3: 0.0*4.0
-    PV Lehe - 4: 0.0*4.0
-    PV Leherheide - 0: 0.0*4.0
-    PV Leherheide - 1: 0.0*4.0
-    PV Mitte - 0: 0.0*4.0
-    PV Mitte - 1: 0.0*4.0
-    PV Schiffdorferdamm: 0.0*4.0
-    PV Surheide: 0.0*4.0
-    PV Weddewarden: 0.0*4.0
-    PV Wulsdorf - 0: 0.0*4.0
-    PV Wulsdorf - 1: 0.0*4.0
+  - 0-sgen-1-17.p_mw: 0.0*4.0
+    0-sgen-10-35.p_mw: 0.0*4.0
+    0-sgen-11-37.p_mw: 0.0*4.0
+    0-sgen-13-40.p_mw: 0.0*4.0
+    0-sgen-15-45.p_mw: 0.0*4.0
+    0-sgen-16-50.p_mw: 0.0*4.0
+    0-sgen-17-53.p_mw: 0.0*4.0
+    0-sgen-19-57.p_mw: 0.0*4.0
+    0-sgen-2-20.p_mw: 0.0*4.0
+    0-sgen-20-63.p_mw: 0.0*4.0
+    0-sgen-21-65.p_mw: 0.0*4.0
+    0-sgen-22-67.p_mw: 0.0*4.0
+    0-sgen-23-71.p_mw: 0.0*4.0
+    0-sgen-24-80.p_mw: 0.0*4.0
+    0-sgen-5-25.p_mw: 0.0*4.0
+    0-sgen-6-28.p_mw: 0.0*4.0
+    0-sgen-7-30.p_mw: 0.0*4.0
+    0-sgen-9-33.p_mw: 0.0*4.0
 - - 0*24*60*60+88*900
   - 0*24*60*60+88*900+899
-  - PV Fischereihafen: 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0*4.0
-    PV Lehe - 0: 0.0*4.0
-    PV Lehe - 1: 0.0*4.0
-    PV Lehe - 2: 0.0*4.0
-    PV Lehe - 3: 0.0*4.0
-    PV Lehe - 4: 0.0*4.0
-    PV Leherheide - 0: 0.0*4.0
-    PV Leherheide - 1: 0.0*4.0
-    PV Mitte - 0: 0.0*4.0
-    PV Mitte - 1: 0.0*4.0
-    PV Schiffdorferdamm: 0.0*4.0
-    PV Surheide: 0.0*4.0
-    PV Weddewarden: 0.0*4.0
-    PV Wulsdorf - 0: 0.0*4.0
-    PV Wulsdorf - 1: 0.0*4.0
+  - 0-sgen-1-17.p_mw: 0.0*4.0
+    0-sgen-10-35.p_mw: 0.0*4.0
+    0-sgen-11-37.p_mw: 0.0*4.0
+    0-sgen-13-40.p_mw: 0.0*4.0
+    0-sgen-15-45.p_mw: 0.0*4.0
+    0-sgen-16-50.p_mw: 0.0*4.0
+    0-sgen-17-53.p_mw: 0.0*4.0
+    0-sgen-19-57.p_mw: 0.0*4.0
+    0-sgen-2-20.p_mw: 0.0*4.0
+    0-sgen-20-63.p_mw: 0.0*4.0
+    0-sgen-21-65.p_mw: 0.0*4.0
+    0-sgen-22-67.p_mw: 0.0*4.0
+    0-sgen-23-71.p_mw: 0.0*4.0
+    0-sgen-24-80.p_mw: 0.0*4.0
+    0-sgen-5-25.p_mw: 0.0*4.0
+    0-sgen-6-28.p_mw: 0.0*4.0
+    0-sgen-7-30.p_mw: 0.0*4.0
+    0-sgen-9-33.p_mw: 0.0*4.0
 - - 0*24*60*60+89*900
   - 0*24*60*60+89*900+899
-  - PV Fischereihafen: 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0*4.0
-    PV Lehe - 0: 0.0*4.0
-    PV Lehe - 1: 0.0*4.0
-    PV Lehe - 2: 0.0*4.0
-    PV Lehe - 3: 0.0*4.0
-    PV Lehe - 4: 0.0*4.0
-    PV Leherheide - 0: 0.0*4.0
-    PV Leherheide - 1: 0.0*4.0
-    PV Mitte - 0: 0.0*4.0
-    PV Mitte - 1: 0.0*4.0
-    PV Schiffdorferdamm: 0.0*4.0
-    PV Surheide: 0.0*4.0
-    PV Weddewarden: 0.0*4.0
-    PV Wulsdorf - 0: 0.0*4.0
-    PV Wulsdorf - 1: 0.0*4.0
+  - 0-sgen-1-17.p_mw: 0.0*4.0
+    0-sgen-10-35.p_mw: 0.0*4.0
+    0-sgen-11-37.p_mw: 0.0*4.0
+    0-sgen-13-40.p_mw: 0.0*4.0
+    0-sgen-15-45.p_mw: 0.0*4.0
+    0-sgen-16-50.p_mw: 0.0*4.0
+    0-sgen-17-53.p_mw: 0.0*4.0
+    0-sgen-19-57.p_mw: 0.0*4.0
+    0-sgen-2-20.p_mw: 0.0*4.0
+    0-sgen-20-63.p_mw: 0.0*4.0
+    0-sgen-21-65.p_mw: 0.0*4.0
+    0-sgen-22-67.p_mw: 0.0*4.0
+    0-sgen-23-71.p_mw: 0.0*4.0
+    0-sgen-24-80.p_mw: 0.0*4.0
+    0-sgen-5-25.p_mw: 0.0*4.0
+    0-sgen-6-28.p_mw: 0.0*4.0
+    0-sgen-7-30.p_mw: 0.0*4.0
+    0-sgen-9-33.p_mw: 0.0*4.0
 - - 0*24*60*60+90*900
   - 0*24*60*60+90*900+899
-  - PV Fischereihafen: 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0*4.0
-    PV Lehe - 0: 0.0*4.0
-    PV Lehe - 1: 0.0*4.0
-    PV Lehe - 2: 0.0*4.0
-    PV Lehe - 3: 0.0*4.0
-    PV Lehe - 4: 0.0*4.0
-    PV Leherheide - 0: 0.0*4.0
-    PV Leherheide - 1: 0.0*4.0
-    PV Mitte - 0: 0.0*4.0
-    PV Mitte - 1: 0.0*4.0
-    PV Schiffdorferdamm: 0.0*4.0
-    PV Surheide: 0.0*4.0
-    PV Weddewarden: 0.0*4.0
-    PV Wulsdorf - 0: 0.0*4.0
-    PV Wulsdorf - 1: 0.0*4.0
+  - 0-sgen-1-17.p_mw: 0.0*4.0
+    0-sgen-10-35.p_mw: 0.0*4.0
+    0-sgen-11-37.p_mw: 0.0*4.0
+    0-sgen-13-40.p_mw: 0.0*4.0
+    0-sgen-15-45.p_mw: 0.0*4.0
+    0-sgen-16-50.p_mw: 0.0*4.0
+    0-sgen-17-53.p_mw: 0.0*4.0
+    0-sgen-19-57.p_mw: 0.0*4.0
+    0-sgen-2-20.p_mw: 0.0*4.0
+    0-sgen-20-63.p_mw: 0.0*4.0
+    0-sgen-21-65.p_mw: 0.0*4.0
+    0-sgen-22-67.p_mw: 0.0*4.0
+    0-sgen-23-71.p_mw: 0.0*4.0
+    0-sgen-24-80.p_mw: 0.0*4.0
+    0-sgen-5-25.p_mw: 0.0*4.0
+    0-sgen-6-28.p_mw: 0.0*4.0
+    0-sgen-7-30.p_mw: 0.0*4.0
+    0-sgen-9-33.p_mw: 0.0*4.0
 - - 0*24*60*60+91*900
   - 0*24*60*60+91*900+899
-  - PV Fischereihafen: 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0*4.0
-    PV Lehe - 0: 0.0*4.0
-    PV Lehe - 1: 0.0*4.0
-    PV Lehe - 2: 0.0*4.0
-    PV Lehe - 3: 0.0*4.0
-    PV Lehe - 4: 0.0*4.0
-    PV Leherheide - 0: 0.0*4.0
-    PV Leherheide - 1: 0.0*4.0
-    PV Mitte - 0: 0.0*4.0
-    PV Mitte - 1: 0.0*4.0
-    PV Schiffdorferdamm: 0.0*4.0
-    PV Surheide: 0.0*4.0
-    PV Weddewarden: 0.0*4.0
-    PV Wulsdorf - 0: 0.0*4.0
-    PV Wulsdorf - 1: 0.0*4.0
+  - 0-sgen-1-17.p_mw: 0.0*4.0
+    0-sgen-10-35.p_mw: 0.0*4.0
+    0-sgen-11-37.p_mw: 0.0*4.0
+    0-sgen-13-40.p_mw: 0.0*4.0
+    0-sgen-15-45.p_mw: 0.0*4.0
+    0-sgen-16-50.p_mw: 0.0*4.0
+    0-sgen-17-53.p_mw: 0.0*4.0
+    0-sgen-19-57.p_mw: 0.0*4.0
+    0-sgen-2-20.p_mw: 0.0*4.0
+    0-sgen-20-63.p_mw: 0.0*4.0
+    0-sgen-21-65.p_mw: 0.0*4.0
+    0-sgen-22-67.p_mw: 0.0*4.0
+    0-sgen-23-71.p_mw: 0.0*4.0
+    0-sgen-24-80.p_mw: 0.0*4.0
+    0-sgen-5-25.p_mw: 0.0*4.0
+    0-sgen-6-28.p_mw: 0.0*4.0
+    0-sgen-7-30.p_mw: 0.0*4.0
+    0-sgen-9-33.p_mw: 0.0*4.0
 - - 0*24*60*60+92*900
   - 0*24*60*60+92*900+899
-  - PV Fischereihafen: 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0*4.0
-    PV Lehe - 0: 0.0*4.0
-    PV Lehe - 1: 0.0*4.0
-    PV Lehe - 2: 0.0*4.0
-    PV Lehe - 3: 0.0*4.0
-    PV Lehe - 4: 0.0*4.0
-    PV Leherheide - 0: 0.0*4.0
-    PV Leherheide - 1: 0.0*4.0
-    PV Mitte - 0: 0.0*4.0
-    PV Mitte - 1: 0.0*4.0
-    PV Schiffdorferdamm: 0.0*4.0
-    PV Surheide: 0.0*4.0
-    PV Weddewarden: 0.0*4.0
-    PV Wulsdorf - 0: 0.0*4.0
-    PV Wulsdorf - 1: 0.0*4.0
+  - 0-sgen-1-17.p_mw: 0.0*4.0
+    0-sgen-10-35.p_mw: 0.0*4.0
+    0-sgen-11-37.p_mw: 0.0*4.0
+    0-sgen-13-40.p_mw: 0.0*4.0
+    0-sgen-15-45.p_mw: 0.0*4.0
+    0-sgen-16-50.p_mw: 0.0*4.0
+    0-sgen-17-53.p_mw: 0.0*4.0
+    0-sgen-19-57.p_mw: 0.0*4.0
+    0-sgen-2-20.p_mw: 0.0*4.0
+    0-sgen-20-63.p_mw: 0.0*4.0
+    0-sgen-21-65.p_mw: 0.0*4.0
+    0-sgen-22-67.p_mw: 0.0*4.0
+    0-sgen-23-71.p_mw: 0.0*4.0
+    0-sgen-24-80.p_mw: 0.0*4.0
+    0-sgen-5-25.p_mw: 0.0*4.0
+    0-sgen-6-28.p_mw: 0.0*4.0
+    0-sgen-7-30.p_mw: 0.0*4.0
+    0-sgen-9-33.p_mw: 0.0*4.0
 - - 0*24*60*60+93*900
   - 0*24*60*60+93*900+899
-  - PV Fischereihafen: 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0*4.0
-    PV Lehe - 0: 0.0*4.0
-    PV Lehe - 1: 0.0*4.0
-    PV Lehe - 2: 0.0*4.0
-    PV Lehe - 3: 0.0*4.0
-    PV Lehe - 4: 0.0*4.0
-    PV Leherheide - 0: 0.0*4.0
-    PV Leherheide - 1: 0.0*4.0
-    PV Mitte - 0: 0.0*4.0
-    PV Mitte - 1: 0.0*4.0
-    PV Schiffdorferdamm: 0.0*4.0
-    PV Surheide: 0.0*4.0
-    PV Weddewarden: 0.0*4.0
-    PV Wulsdorf - 0: 0.0*4.0
-    PV Wulsdorf - 1: 0.0*4.0
+  - 0-sgen-1-17.p_mw: 0.0*4.0
+    0-sgen-10-35.p_mw: 0.0*4.0
+    0-sgen-11-37.p_mw: 0.0*4.0
+    0-sgen-13-40.p_mw: 0.0*4.0
+    0-sgen-15-45.p_mw: 0.0*4.0
+    0-sgen-16-50.p_mw: 0.0*4.0
+    0-sgen-17-53.p_mw: 0.0*4.0
+    0-sgen-19-57.p_mw: 0.0*4.0
+    0-sgen-2-20.p_mw: 0.0*4.0
+    0-sgen-20-63.p_mw: 0.0*4.0
+    0-sgen-21-65.p_mw: 0.0*4.0
+    0-sgen-22-67.p_mw: 0.0*4.0
+    0-sgen-23-71.p_mw: 0.0*4.0
+    0-sgen-24-80.p_mw: 0.0*4.0
+    0-sgen-5-25.p_mw: 0.0*4.0
+    0-sgen-6-28.p_mw: 0.0*4.0
+    0-sgen-7-30.p_mw: 0.0*4.0
+    0-sgen-9-33.p_mw: 0.0*4.0
 - - 0*24*60*60+94*900
   - 0*24*60*60+94*900+899
-  - PV Fischereihafen: 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0*4.0
-    PV Lehe - 0: 0.0*4.0
-    PV Lehe - 1: 0.0*4.0
-    PV Lehe - 2: 0.0*4.0
-    PV Lehe - 3: 0.0*4.0
-    PV Lehe - 4: 0.0*4.0
-    PV Leherheide - 0: 0.0*4.0
-    PV Leherheide - 1: 0.0*4.0
-    PV Mitte - 0: 0.0*4.0
-    PV Mitte - 1: 0.0*4.0
-    PV Schiffdorferdamm: 0.0*4.0
-    PV Surheide: 0.0*4.0
-    PV Weddewarden: 0.0*4.0
-    PV Wulsdorf - 0: 0.0*4.0
-    PV Wulsdorf - 1: 0.0*4.0
+  - 0-sgen-1-17.p_mw: 0.0*4.0
+    0-sgen-10-35.p_mw: 0.0*4.0
+    0-sgen-11-37.p_mw: 0.0*4.0
+    0-sgen-13-40.p_mw: 0.0*4.0
+    0-sgen-15-45.p_mw: 0.0*4.0
+    0-sgen-16-50.p_mw: 0.0*4.0
+    0-sgen-17-53.p_mw: 0.0*4.0
+    0-sgen-19-57.p_mw: 0.0*4.0
+    0-sgen-2-20.p_mw: 0.0*4.0
+    0-sgen-20-63.p_mw: 0.0*4.0
+    0-sgen-21-65.p_mw: 0.0*4.0
+    0-sgen-22-67.p_mw: 0.0*4.0
+    0-sgen-23-71.p_mw: 0.0*4.0
+    0-sgen-24-80.p_mw: 0.0*4.0
+    0-sgen-5-25.p_mw: 0.0*4.0
+    0-sgen-6-28.p_mw: 0.0*4.0
+    0-sgen-7-30.p_mw: 0.0*4.0
+    0-sgen-9-33.p_mw: 0.0*4.0
 - - 0*24*60*60+95*900
   - 0*24*60*60+95*900+899
-  - PV Fischereihafen: 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 0": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 1": 0.0*4.0
-    "PV Geestem\xC3\xBCnde - 2": 0.0*4.0
-    PV Lehe - 0: 0.0*4.0
-    PV Lehe - 1: 0.0*4.0
-    PV Lehe - 2: 0.0*4.0
-    PV Lehe - 3: 0.0*4.0
-    PV Lehe - 4: 0.0*4.0
-    PV Leherheide - 0: 0.0*4.0
-    PV Leherheide - 1: 0.0*4.0
-    PV Mitte - 0: 0.0*4.0
-    PV Mitte - 1: 0.0*4.0
-    PV Schiffdorferdamm: 0.0*4.0
-    PV Surheide: 0.0*4.0
-    PV Weddewarden: 0.0*4.0
-    PV Wulsdorf - 0: 0.0*4.0
-    PV Wulsdorf - 1: 0.0*4.0
+  - 0-sgen-1-17.p_mw: 0.0*4.0
+    0-sgen-10-35.p_mw: 0.0*4.0
+    0-sgen-11-37.p_mw: 0.0*4.0
+    0-sgen-13-40.p_mw: 0.0*4.0
+    0-sgen-15-45.p_mw: 0.0*4.0
+    0-sgen-16-50.p_mw: 0.0*4.0
+    0-sgen-17-53.p_mw: 0.0*4.0
+    0-sgen-19-57.p_mw: 0.0*4.0
+    0-sgen-2-20.p_mw: 0.0*4.0
+    0-sgen-20-63.p_mw: 0.0*4.0
+    0-sgen-21-65.p_mw: 0.0*4.0
+    0-sgen-22-67.p_mw: 0.0*4.0
+    0-sgen-23-71.p_mw: 0.0*4.0
+    0-sgen-24-80.p_mw: 0.0*4.0
+    0-sgen-5-25.p_mw: 0.0*4.0
+    0-sgen-6-28.p_mw: 0.0*4.0
+    0-sgen-7-30.p_mw: 0.0*4.0
+    0-sgen-9-33.p_mw: 0.0*4.0
